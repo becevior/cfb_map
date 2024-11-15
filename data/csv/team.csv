@@ -1,0 +1,756 @@
+team_name,id,group_id,parent_group_id
+Abilene Christian Wildcats,2000,177,81
+Adams State Grizzlies,2001,57,35
+Adrian Bulldogs,2003,58,35
+Siena Heights Saints,2562,99,
+Air Force Falcons,2005,17,80
+Akron Zips,2006,15,80
+Alabama A&M Bulldogs,2010,33,31
+Alabama Crimson Tide,333,8,80
+Alabama State Hornets,2011,33,31
+Albany State Golden Rams,2013,136,57
+Albion Britons,2790,58,35
+Albright Lions,2015,58,35
+Alcorn State Braves,2016,34,31
+Alfred State College Pioneers,3162,58,35
+Alfred Saxons,365,58,35
+Allegheny Gators,2018,58,35
+Allen Yellow Jackets,2019,136,57
+Alma College Scots,2800,58,35
+American International Yellow Jackets,2022,57,35
+Amherst Mammoths,7,58,35
+Anderson (IN) Ravens,2023,58,35
+Anderson (SC) Trojans,129469,57,35
+Angelo State Rams,2025,57,35
+Anna Maria College Amcats,15,58,35
+App State Mountaineers,2026,167,37
+Apprentice School Builders,3111,99,
+Arizona State Sun Devils,9,4,80
+Arizona Wildcats,12,4,80
+Arkansas Razorbacks,8,8,80
+Arkansas State Red Wolves,2032,168,37
+Arkansas Tech Wonder Boys,2033,57,35
+Arkansas-Monticello Boll Weevils,2028,57,35
+Arkansas-Pine Bluff Golden Lions,2029,34,31
+Army Black Knights,349,151,80
+Ashland Eagles,308,57,35
+Assumption Greyhounds,2038,57,35
+Auburn Tigers,2,8,80
+Augsburg Auggies,124,58,35
+Augustana (IL) Vikings,2042,58,35
+Augustana University (SD) Vikings,2043,129,57
+Aurora Spartans,2044,58,35
+Austin 'Roos,2045,58,35
+Austin Peay Governors,2046,177,81
+Ave Maria Gyrenes,3178,99,
+Averett Cougars,2047,58,35
+Avila College Eagles,2048,99,
+Bluefield University Ramblin' Rams,495,99,
+BYU Cougars,252,4,80
+Baker University Baker,488,99,
+Baldwin Wallace Yellow Jackets,188,58,35
+Ball State Cardinals,2050,15,80
+Bates College Bobcats,121,58,35
+Baylor Bears,239,4,80
+Belhaven Blazers,2056,58,35
+Beloit College Buccaneers,266,58,35
+Bemidji State Beavers,132,129,57
+Benedict College Tigers,490,136,57
+Benedictine Ravens,16111,99,
+Benedictine University (IL) Eagles,2283,58,35
+Bentley Falcons,2060,57,35
+Berry College Vikings,2757,58,35
+Bethany (KS) Bethany (Ks),492,99,
+Bethany (WV) Bison,2062,58,35
+Bethel (MN) Royals,2802,58,35
+Bethel (TN) Wildcats,2064,99,
+Bethune-Cookman Wildcats,2065,33,31
+University of New England Nor'easters,111675,58,35
+Black Hills State Yellow Jackets,2069,57,35
+Bloomsburg Huskies,2071,57,35
+Bluefield State University Big Blues,124180,104,57
+Bluffton Beavers,2074,58,35
+Boise State Broncos,68,17,80
+Boston College Eagles,103,1,80
+Bowdoin Polar Bears,340,58,35
+Bowie State Bulldogs,2075,104,57
+Bowling Green Falcons,189,15,80
+Brevard College Tornados,2913,57,35
+Bridgewater (VA) Eagles,2079,58,35
+Bridgewater State Bears,18,58,35
+British Columbia British Col,2080,99,
+Brockport Golden Eagles,2781,58,35
+Brown Bears,225,22,81
+Bryant Bulldogs,2803,48,81
+Bucknell Bison,2083,27,81
+Buena Vista Beavers,63,58,35
+Buffalo Bulls,2084,15,80
+Buffalo State Bengals,2085,58,35
+Butler Bulldogs,2086,28,81
+Centenary Gentlemen,101442,58,35
+Colorado State-Pueblo Thunderwolves,2570,57,35
+Cal Poly Mustangs,13,20,81
+California Golden Bears,25,1,80
+California Lutheran Kingsmen,2094,58,35
+Calvin University Knights,129738,58,35
+Campbell Fighting Camels,2097,48,81
+Campbellsville Tigers,2098,99,
+Capital Comets,424,58,35
+Carleton College Knights,2101,58,35
+Carnegie Mellon Tartans,2102,58,35
+Carroll (WI) Pioneers,32,58,35
+Carson-Newman Eagles,2105,57,35
+Carthage Firebirds,2106,58,35
+Case Western Reserve Spartans,2963,58,35
+Castleton Spartans,293,58,35
+Catawba Indians,2107,57,35
+Catholic Cardinals,2108,58,35
+Central Arkansas Bears,2110,177,81
+Central College Dutch,2964,58,35
+Central Connecticut Blue Devils,2115,25,81
+Central Methodist Eagles,2860,99,
+Central Michigan Chippewas,2117,15,80
+Central Missouri Mules,2118,57,35
+Central Oklahoma Bronchos,2122,57,35
+Central State (OH) Marauders,2119,136,57
+Central Washington Wildcats,2120,57,35
+Centre College Colonels,2121,58,35
+Chadron State Eagles,2123,57,35
+Chapman University Panthers,411,58,35
+Charleston Southern Buccaneers,2127,179,81
+Charlotte 49ers,2429,151,80
+College of Faith - Charlotte Saints,3253,99,
+Chattanooga Mocs,236,29,81
+Chicago Maroons,80,58,35
+Chowan Hawks,2804,57,35
+Christopher Newport Captains,3112,58,35
+Cincinnati Bearcats,2132,4,80
+Claremont Mudd Scripps College Stags,17,58,35
+Clarion Golden Eagles,2134,57,35
+Clark Atlanta Panthers,2805,136,57
+Clemson Tigers,228,1,80
+Coast Guard Bears,2557,58,35
+Coastal Carolina Chanticleers,324,167,37
+Coe College Kohawks,2141,58,35
+Colby College White Mules,33,58,35
+Cole College Jaguars,3210,99,
+Colgate Raiders,2142,27,81
+The College of New Jersey Lions,2442,58,35
+College of Idaho Yotes,108382,99,
+Colorado Buffaloes,38,4,80
+Colorado Mesa Mavericks,11,57,35
+Colorado School of Mines Orediggers,2146,57,35
+Colorado State Rams,36,17,80
+Columbia Lions,171,22,81
+Concord Mountain Lions,2148,57,35
+Concordia-Moorhead Cobbers,2152,58,35
+Concordia-Chicago Cougars,2151,58,35
+Concordia-Nebraska Clippers,507,99,
+Concordia-St. Paul Golden Bears,3066,129,57
+Concordia College (MI) Cardinals,2985,99,
+Concordia-Wisconsin Falcons,409,58,35
+Cornell Big Red,172,22,81
+Cornell College (IA) Rams,2155,58,35
+Cortland Red Dragons,2782,58,35
+Crown College Polars,509,58,35
+Culver-Stockton Wildcats,510,99,
+Cumberland (KY) Indians,511,99,
+Cumberland (TN) Bulldogs,2161,99,
+Curry College Colonels,40,58,35
+Dakota State Dakota St,512,99,
+Dakota Wesleyan,513,99,
+Dartmouth Big Green,159,22,81
+Davidson Wildcats,2166,28,81
+Dayton Flyers,2168,28,81
+Defiance Yellow Jackets,190,186,
+Delaware Fightin' Blue Hens,48,48,81
+Delaware State Hornets,2169,24,81
+Delaware Valley Aggies,2808,58,35
+Delta State Statesmen,2170,57,35
+Denison Big Red,2171,58,35
+DePauw Tigers,83,58,35
+Grand View Vikings,2254,99,
+Dickinson (PA) Red Devils,2175,58,35
+Dickinson State Blue Hawks,316,99,
+Drake Bulldogs,2181,28,81
+Dubuque Spartans,49,58,35
+Duke Blue Devils,150,1,80
+Duquesne Dukes,2184,25,81
+Erskine Flying Fleet,101784,57,35
+East Carolina Pirates,151,151,80
+East Central (OK) Tigers,2191,57,35
+East Stroudsburg Warriors,2188,57,35
+East Tennessee State Buccaneers,2193,29,81
+East Texas Baptist Tigers,2194,58,35
+Eastern Illinois Panthers,2197,179,81
+Eastern Kentucky Colonels,2198,177,81
+Eastern Michigan Eagles,2199,15,80
+Eastern New Mexico Greyhounds,2201,57,35
+Eastern Oregon,2202,99,
+Eastern University Eagles,127954,58,35
+Eastern Washington Eagles,331,20,81
+Edinboro Fighting Scots,2205,57,35
+Edward Waters Tigers,2206,136,57
+Judson University Eagles,122775,99,
+Elizabeth City State Vikings,2207,104,57
+Elmhurst Bluejays,72,58,35
+Elon Phoenix,2210,48,81
+Emory & Henry College Wasps,2213,58,35
+Emporia State Hornets,2214,57,35
+Endicott College Gulls,452,58,35
+Erie Community College Kats,3236,99,
+Eureka College Red Devils,101,58,35
+Evangel Crusaders,2865,99,
+FDU-Florham Devils,2221,57,35
+Fairmont State Falcons,2986,57,35
+Faulkner Eagles,2219,99,
+Fayetteville State Broncos,2220,104,57
+Ferris State Bulldogs,2222,57,35
+Ferrum Panthers,366,58,35
+Findlay Oilers,2224,57,35
+Fitchburg State Falcons,114,58,35
+Florida A&M Rattlers,50,33,31
+Florida Atlantic Owls,2226,151,80
+Florida Gators,57,8,80
+Florida International Panthers,2229,12,80
+Florida Memorial University Lions,125762,99,
+Florida State Seminoles,52,1,80
+Fordham Rams,2230,27,81
+Fort Hays State Tigers,2231,57,35
+Fort Lewis Skyhawks,2237,57,35
+Fort Valley State Wildcats,2232,136,57
+Framingham State Rams,2967,58,35
+Franklin & Marshall Diplomats,2234,58,35
+Franklin Grizzlies,2233,58,35
+Franklin Pierce Ravens,112334,57,35
+Fresno State Bulldogs,278,17,80
+Friends University Friends,527,99,
+Frostburg State Bobcats,341,57,35
+Furman Paladins,231,29,81
+Gallaudet Bison,417,58,35
+Gannon Golden Knights,367,57,35
+Gardner-Webb Runnin' Bulldogs,2241,179,81
+Geneva Golden Tornadoes,2242,58,35
+George Mason Patriots,2244,99,
+Georgetown (KY) Tigers,2245,99,
+Georgetown Hoyas,46,27,81
+Georgia Bulldogs,61,8,80
+Georgia Southern Eagles,290,167,37
+Georgia State Panthers,2247,167,37
+Georgia Tech Yellow Jackets,59,1,80
+Gettysburg Bullets,2248,58,35
+Glenville State Pioneers,2249,57,35
+Graceland University Graceland,530,99,
+Grambling Tigers,2755,34,31
+Grand Valley State Lakers,125,57,35
+Tusculum Pioneers,2839,57,35
+Greensboro College Pride,2256,58,35
+Greenville Panthers,2257,58,35
+Grinnell Pioneers,65,58,35
+Grove City College Wolverines,146,58,35
+Guilford Quakers,2258,58,35
+Gustavus Adolphus Golden Gusties,2968,58,35
+Hamilton Continentals,348,58,35
+Hamline Pipers,162,58,35
+Hampden-Sydney Tigers,297,58,35
+Hampton Pirates,2261,48,81
+Hanover Panthers,2262,58,35
+Hardin-Simmons Cowboys,2810,58,35
+Harding University Bisons,2264,57,35
+Hartwick Hawks,173,58,35
+Harvard Crimson,108,22,81
+Haskell Indian Nations Jayhawks,535,99,
+Hawai'i Rainbow Warriors,62,17,80
+Heidelberg Student Princes,191,58,35
+Henderson State Reddies,2271,57,35
+Hendrix College Warriors,418,58,35
+Hilbert College Hawks,125974,58,35
+Hillsdale Chargers,2273,57,35
+Hiram College Terriers,2274,58,35
+Hobart College Statesmen,174,58,35
+Holland College Hurricanes,108354,99,
+Holy Cross Crusaders,107,27,81
+Hope Flying Dutchmen,2812,58,35
+Houston Christian Huskies,2277,30,81
+Houston Cougars,248,4,80
+Howard Bison,47,24,81
+Howard Payne Yellow Jackets,2758,58,35
+Huntingdon College (AL) Hawks,2938,58,35
+Husson Eagles,2280,58,35
+Idaho State Bengals,304,20,81
+Idaho Vandals,70,20,81
+Illinois College Blueboys,2286,58,35
+Illinois Fighting Illini,356,5,80
+Illinois State Redbirds,2287,21,81
+Illinois Wesleyan Titans,306,58,35
+Incarnate Word Cardinals,2916,30,81
+Indiana Hoosiers,84,5,80
+Indiana State Sycamores,282,21,81
+Indiana Wesleyan Wildcats,111756,99,
+Indiana-Pennsylvania Crimson Hawks,2291,57,35
+Indianapolis Greyhounds,2292,57,35
+Iowa Hawkeyes,2294,5,80
+Iowa State Cyclones,66,4,80
+Ithaca Bombers,175,58,35
+Jackson State Tigers,2296,33,31
+Jacksonville State Gamecocks,55,12,80
+James Madison Dukes,256,167,37
+Jamestown Jimmies,2939,99,
+John Carroll Blue Streaks,2302,58,35
+Johns Hopkins University Blue Jays,118,58,35
+Johnson C Smith Golden Bulls,2304,104,57
+Juniata Eagles,246,58,35
+Kalamazoo Hornets,126,58,35
+Kansas Jayhawks,2305,4,80
+Kansas State Wildcats,2306,4,80
+Kansas Wesleyan University Ks Wesleyan,547,99,
+Kean Cougars,2871,58,35
+Keiser University Keiser,126110,99,
+Kennesaw State Owls,338,12,80
+Kent State Golden Flashes,2309,15,80
+Kentucky Christian Knights,3077,99,
+Kentucky State Thorobreds,2310,136,57
+Kentucky Wesleyan Panthers,2316,57,35
+Kentucky Wildcats,96,8,80
+Kenyon Owls,352,58,35
+Kings College (PA) Monarchs,247,58,35
+Knox College Prairie Fire,255,58,35
+Kutztown Golden Bears,2315,57,35
+Keystone,122774,58,35
+Southeastern University Fires,267,99,
+LSU Tigers,99,8,80
+Lyon College Scots,101161,58,35
+La Verne Leopards,2318,58,35
+Lafayette Leopards,322,27,81
+LaGrange College Panthers,548,58,35
+Lake Erie Storm,437,57,35
+Lake Forest Foresters,262,58,35
+Lakeland University Muskies,6353,58,35
+Lamar Cardinals,2320,30,81
+Lane Dragons,2323,136,57
+Langston Lions,2324,99,
+St. Andrews Knights,111610,99,
+Lawrence University Vikings,268,58,35
+Lebanon Valley Flying Dutchmen,388,58,35
+Lehigh Mountain Hawks,2329,27,81
+Lenoir-Rhyne Bears,2331,57,35
+Lewis & Clark Pioneers,2333,58,35
+Liberty Flames,2335,12,80
+Limestone Saints,2336,57,35
+Lincoln (CA) Oaklanders,124179,112,57
+Lincoln (MO) Blue Tigers,2876,57,35
+Lincoln (PA) Lions,2339,104,57
+Lindenwood Belleville Lynx,3209,99,
+Lindenwood Lions,2815,179,81
+Lindsey Wilson College Lindsey,2877,99,
+Linfield Wildcats,203,58,35
+Arkansas Baptist Buffaloes,124386,99,
+Livingstone Blue Bears,2940,104,57
+Lock Haven University Bald Eagles,209,57,35
+Long Island University Sharks,2341,25,81
+Loras College Duhawks,263,58,35
+Louisiana Christian University Wildcats,2347,99,
+Louisiana Ragin' Cajuns,309,168,37
+Louisiana Tech Bulldogs,2348,12,80
+Louisville Cardinals,97,1,80
+Luther Norse,67,58,35
+Lycoming Warriors,2354,58,35
+Manitoba,2770,99,
+MIT Engineers,109,58,35
+Macalester Scots,2359,58,35
+Madonna University Madonna,126146,99,
+Maine Black Bears,311,48,81
+Maine Maritime Mariners,274,113,58
+Manchester Spartans,2362,58,35
+Mansfield Mountaineers,2365,99,
+Marian,2366,99,
+Marietta Pioneers,317,58,35
+Marist Red Foxes,2368,28,81
+Mars Hill Mountain Lions,2369,57,35
+Marshall Thundering Herd,276,167,37
+Martin Luther Knights,446,58,35
+Mary Hardin-Baylor Crusaders,2371,58,35
+Maryland Terrapins,120,5,80
+Maryville College (TN) Scots,2373,58,35
+Mass Maritime Buccaneers,110,58,35
+Massachusetts Minutemen,113,18,80
+Mayville State Comets,561,99,
+McDaniel College Green Terror,2700,58,35
+McKendree Bearcats,2816,57,35
+McMurry War Hawks,241,58,35
+McNeese Cowboys,2377,30,81
+Memphis Tigers,235,151,80
+Mercer Bears,2382,29,81
+Merchant Marine Mariners,2383,58,35
+Mercyhurst Lakers,2385,25,81
+Merrimack Warriors,2771,32,81
+Methodist Monarchs,291,58,35
+Miami (OH) RedHawks,193,15,80
+Miami Hurricanes,2390,1,80
+Michigan State Spartans,127,5,80
+Michigan Tech Huskies,2392,57,35
+Michigan Wolverines,130,5,80
+Middle Tennessee Blue Raiders,2393,12,80
+Middlebury Panthers,2394,58,35
+Midland University Midland Lutheran,565,99,
+Midwestern State Mustangs,2395,57,35
+Miles College Golden Bears,2396,136,57
+Millersville Marauders,210,57,35
+Millikin Big Blue,74,58,35
+Millsaps Majors,2398,58,35
+Minnesota Duluth Bulldogs,134,129,57
+Minnesota Golden Gophers,135,5,80
+Minnesota Morris Cougars,2399,58,35
+Minnesota State Mankato Mavericks,2364,129,57
+Minnesota State Moorhead Dragons,2817,129,57
+Minot State Beavers,568,129,57
+Misericordia Cougars,2969,57,35
+Mississippi College Choctaws,2401,57,35
+Mississippi State Bulldogs,344,8,80
+Mississippi Valley State Delta Devils,2400,33,31
+Missouri S&T Miners,2402,57,35
+Missouri Southern State Lions,2403,57,35
+Missouri State Bears,2623,21,81
+Missouri Tigers,142,8,80
+Missouri Western Griffons,137,57,35
+Monmouth (IL) Fighting Scots,2919,58,35
+Monmouth Hawks,2405,48,81
+Montana Grizzlies,149,20,81
+Montana State Bobcats,147,20,81
+Montana-Western Bulldogs,2701,99,
+Montclair State Red Hawks,2818,58,35
+Monterrey Tech Borregos,3100,99,
+Moravian Greyhounds,323,58,35
+Morehead State Eagles,2413,28,81
+Morehouse College Maroon Tigers,60,136,57
+Morgan State Bears,2415,24,81
+Morningside Chiefs,2416,99,
+Mount St. Joseph Lions,2419,58,35
+Muhlenberg Mules,2422,58,35
+Murray State Racers,93,21,81
+Muskingum Fighting Muskies,332,58,35
+NC State Wolfpack,152,1,80
+George Fox Bruins,415,58,35
+Navy Midshipmen,2426,151,80
+Nebraska Cornhuskers,158,5,80
+Nebraska Wesleyan Prairie Wolves,6845,58,35
+Nebraska-Kearney Lopers,2438,57,35
+Nevada Wolf Pack,2440,17,80
+New Hampshire Wildcats,160,48,81
+New Haven Chargers,2441,57,35
+New Mexico Highlands Cowboys,2424,57,35
+New Mexico Lobos,167,17,80
+New Mexico State Aggies,166,12,80
+Newberry Wolves,2444,57,35
+Nicholls Colonels,2447,30,81
+Nichols College Bison,2884,58,35
+Norfolk State Spartans,2450,24,81
+North Alabama Lions,2453,177,81
+North American University Stallions,123086,186,
+North Carolina A&T Aggies,2448,48,81
+North Carolina Central Eagles,2428,24,81
+North Carolina Tar Heels,153,1,80
+North Carolina Wesleyan Battling Bishops,286,58,35
+North Central College Cardinals,3071,58,35
+North Dakota Fighting Hawks,155,21,81
+North Dakota State Bison,2449,21,81
+North Greenville Crusaders,2822,57,35
+North Park Vikings,75,58,35
+North Texas Mean Green,249,151,80
+Northeastern State RiverHawks,196,112,57
+Northern Arizona Lumberjacks,2464,20,81
+Northern Colorado Bears,2458,20,81
+Northern Illinois Huskies,2459,15,80
+Northern Iowa Panthers,2460,21,81
+Northern Michigan Wildcats,128,57,35
+Northern State Wolves,425,129,57
+Northwest Missouri State Bearcats,138,57,35
+Northwestern (MN) Eagles,583,58,35
+Northwestern Oklahoma State Rangers,2823,57,35
+Northwestern State Demons,2466,30,81
+Northwestern Wildcats,77,5,80
+Northwood (MI) Timberwolves,2886,57,35
+Norwich Cadets,2467,58,35
+Notre Dame Fighting Irish,87,18,80
+Oberlin Yeomen,391,58,35
+Ohio Bobcats,195,15,80
+Ohio Northern Polar Bears,427,58,35
+Ohio State Buckeyes,194,5,80
+Ohio State Newark Titans,3161,99,
+Ohio Wesleyan Battling Bishops,2980,58,35
+Oklahoma Baptist Bison,319,57,35
+Oklahoma Panhandle State Ok Panhandle St,2824,99,
+Oklahoma Sooners,201,8,80
+Oklahoma State Cowboys,197,4,80
+Old Dominion Monarchs,295,167,37
+Ole Miss Rebels,145,8,80
+Olivet College Comets,354,58,35
+Oregon Ducks,2483,5,80
+Oregon State Beavers,204,9,80
+Otterbein Cardinals,359,58,35
+Ouachita Baptist Tigers,2888,57,35
+Pace Setters,2487,57,35
+Pacific (OR) Boxers,205,57,35
+Pacific Lutheran Lutes,2486,58,35
+Penn State Nittany Lions,213,5,80
+California (PA) Vulcans,2858,57,35
+Pennsylvania Quakers,219,22,81
+West Florida Argonauts,110242,57,35
+Arizona Christian Firestorm,108358,99,
+Pikeville Bears,95,99,
+Pittsburg State Gorillas,90,57,35
+Pittsburgh Panthers,221,1,80
+Plymouth State Panthers,2972,58,35
+Point University Skyhawks,3179,99,
+Pomona Pitzer Sagehens,2923,58,35
+Portland State Vikings,2502,20,81
+Post University Eagles,126086,57,35
+Prairie View A&M Panthers,2504,34,31
+Presbyterian Blue Hose,2506,28,81
+Presentation College Presentation,597,99,
+Princeton Tigers,163,22,81
+Puget Sound Loggers,2508,58,35
+Purdue Boilermakers,2509,5,80
+Quincy Hawks,2825,57,35
+Randolph-Macon Yellow Jackets,2516,58,35
+Alvernia Golden Wolves,111674,58,35
+Redlands Bulldogs,29,58,35
+Reinhardt Eagles,2890,99,
+Rensselaer Engineers,2528,58,35
+Rhode Island Rams,227,48,81
+Rhodes College Lynx,2519,58,35
+Rice Owls,242,151,80
+Richmond Spiders,257,48,81
+Ripon Red Hawks,2891,58,35
+Robert Morris Colonials,2523,25,81
+Robert Morris (IL) Lakers,599,99,
+Rockford Regents,2524,58,35
+Roosevelt Lakers,127991,57,35
+Rose-Hulman Fightin' Engineers,86,58,35
+Rowan Profs,2827,58,35
+Rutgers Scarlet Knights,164,5,80
+SE Louisiana Lions,2545,30,81
+SMU Mustangs,2567,1,80
+SUNY Maritime Privateers,2951,58,35
+SUNY Morrisville Mustangs,3110,58,35
+Sacramento State Hornets,16,20,81
+Sacred Heart Pioneers,2529,32,81
+Saginaw Valley State Cardinals,129,57,35
+Saint John's (MN) Johnnies,2600,58,35
+Saint Vincent Bearcats,2614,58,35
+Salisbury University Sea Gulls,2532,58,35
+Salve Regina Seahawks,2776,58,35
+Sam Houston Bearkats,2534,12,80
+Samford Bulldogs,2535,29,81
+San Diego State Aztecs,21,17,80
+San Diego Toreros,301,28,81
+San José State Spartans,23,17,80
+Savannah State Tigers,2542,136,57
+Seton Hill Griffins,611,57,35
+Sewanee Tigers,2553,58,35
+Shaw Bears,2551,104,57
+Shenandoah Hornets,2828,58,35
+Shepherd Rams,2974,57,35
+Shippensburg Raiders,2559,57,35
+Shorter Hawks,2560,112,57
+Simpson College (IA) Storm,2564,58,35
+Sioux Falls Cougars,2894,129,57
+Slippery Rock The Rock,215,57,35
+South Alabama Jaguars,6,168,37
+South Carolina Gamecocks,2579,8,80
+South Carolina State Bulldogs,2569,24,81
+South Dakota Coyotes,233,21,81
+South Dakota Mines Hardrockers,613,57,35
+South Dakota State Jackrabbits,2571,21,81
+South Florida Bulls,58,151,80
+Southeast Missouri State Redhawks,2546,179,81
+Southeastern Oklahoma State Savage Storm,199,57,35
+Southern Arkansas Muleriders,2568,57,35
+Southern Connecticut State Owls,2583,57,35
+Southern Illinois Salukis,79,21,81
+Southern Jaguars,2582,34,31
+Southern Miss Golden Eagles,2572,168,37
+Southern Nazarene Crimson Storm,200,57,35
+Southern Oregon Raiders,2584,99,
+Southern Utah Thunderbirds,253,177,81
+Southern Virginia Knights,2896,58,35
+Southwest Baptist Bearcats,2586,57,35
+Southwest Minnesota State Mustangs,2587,129,57
+Nelson University Lions,2904,99,
+Southwestern College Moundbuilders,616,99,
+Southwestern Oklahoma State Bulldogs,2927,57,35
+Southwestern University Pirates,2588,58,35
+Springfield Pride,81,58,35
+St. Ambrose Fighting Bees,2591,99,
+St. Francis (IL) Fighting Saints,2595,99,
+St. John Fisher University Cardinals,374,58,35
+St. Anselm Hawks,2830,57,35
+St. Francis (PA) Red Flash,2598,25,81
+St. Lawrence Saints,2779,58,35
+Missouri Baptist Spartans,2880,99,
+St. Norbert Green Knights,2832,58,35
+St. Olaf Oles,133,58,35
+University of Faith Glory Eagles,3254,99,
+St. Scholastica Saints,375,58,35
+St. Thomas-Minnesota Tommies,2900,28,81
+St. Xavier (IL) Cougars,2615,99,
+Stanford Cardinal,24,1,80
+Stephen F. Austin Lumberjacks,2617,30,81
+Sterling College Sterling Ks,618,99,
+Stetson Hatters,56,28,81
+Stevenson Mustangs,471,57,35
+Stonehill Skyhawks,284,25,81
+Stony Brook Seawolves,2619,48,81
+Sul Ross State Lobos,2834,57,35
+Susquehanna River Hawks,216,58,35
+Syracuse Orange,183,1,80
+TCU Horned Frogs,2628,4,80
+Tarleton State Texans,2627,177,81
+Taylor Trojans,620,99,
+Temple Owls,218,151,80
+Tennessee State Tigers,2634,179,81
+Tennessee Tech Golden Eagles,2635,179,81
+Tennessee Volunteers,2633,8,80
+Texas A&M Aggies,245,8,80
+Texas A&M-Commerce Lions,2837,30,81
+Texas A&M-Kingsville Javelinas,2658,57,35
+Texas College Steers,2637,99,
+Texas Longhorns,251,8,80
+Texas Lutheran Bulldogs,2639,58,35
+Texas Southern Tigers,2640,34,31
+Texas State Bobcats,326,168,37
+Texas Tech Red Raiders,2641,4,80
+The Citadel Bulldogs,2643,29,81
+Thiel Tomcats,2644,58,35
+Thomas More College Saints,2646,57,35
+Tiffin Dragons,2838,57,35
+Toledo Rockets,2649,15,80
+Towson Tigers,119,48,81
+Trine University Thunder,2651,58,35
+Trinity (CT) Bantams,2977,58,35
+Trinity Bible Lions,3214,99,
+Trinity (TX) Tigers,386,58,35
+Troy Trojans,2653,168,37
+Hudson Valley CC Vikings,3237,99,
+Truman State Bulldogs,2654,57,35
+Tufts Jumbos,112,58,35
+Tulane Green Wave,2655,151,80
+Tulsa Golden Hurricane,202,151,80
+Tuskegee Golden Tigers,2657,136,57
+UAB Blazers,5,151,80
+UAlbany Great Danes,399,48,81
+UC Davis Aggies,302,20,81
+UCF Knights,2116,4,80
+UCLA Bruins,26,5,80
+UConn Huskies,41,18,80
+UL Monroe Warhawks,2433,168,37
+UMASS Dartmouth Corsairs,379,58,35
+UNC Pembroke Braves,2882,57,35
+UNLV Rebels,2439,17,80
+USC Trojans,30,5,80
+UT Martin Skyhawks,2630,179,81
+UT Permian Basin Falcons,110243,57,35
+UTEP Miners,2638,12,80
+UTSA Roadrunners,2636,151,80
+UVA Wise Cavaliers,2842,57,35
+Union (NY) Garnet Chargers,237,58,35
+University Of Charleston (WV) Golden Eagles,2128,57,35
+University of Mexico Mexico U,3212,99,
+St. Francis (IN) Cougars,2831,99,
+University of Mary Marauders,559,129,57
+Mount Union Raiders,426,58,35
+University of Rochester (NY) Yellow Jackets,184,58,35
+Upper Iowa Peacocks,389,57,35
+Ursinus Bears,2667,58,35
+Utah State Aggies,328,17,80
+Utah Tech Trailblazers,3101,177,81
+Utah Utes,254,4,80
+Utica Pioneers,390,58,35
+VMI Keydets,2678,29,81
+Valdosta State Blazers,2673,57,35
+Valley City State Valley City St,628,99,
+Valparaiso Beacons,2674,28,81
+Vanderbilt Commodores,238,8,80
+Villanova Wildcats,222,48,81
+Virginia Cavaliers,258,1,80
+Virginia State Trojans,330,104,57
+Virginia Tech Hokies,259,1,80
+Virginia Union Panthers,2676,104,57
+Virginia Lynchburg Dragons,2355,186,
+Wabash College Little Giants,89,58,35
+Wagner Seahawks,2681,25,81
+Wake Forest Demon Deacons,154,1,80
+Waldorf Warriors,3080,99,
+Walsh Cavaliers,2682,57,35
+Warner Royals,2683,99,
+Wartburg College Knights,2685,58,35
+Washburn Ichabods,2687,57,35
+Washington & Jefferson Presidents,2686,58,35
+Washington Huskies,264,5,80
+Washington State Cougars,265,9,80
+Washington University-St. Louis Bears,143,58,35
+Washington and Lee Generals,2688,58,35
+Wayland Baptist Pioneers,630,99,
+Wayne State (MI) Warriors,131,57,35
+Wayne State (NE) Wildcats,2844,129,57
+Waynesburg Yellow Jackets,2845,58,35
+Webber International Warriors,2691,99,
+Weber State Wildcats,2692,20,81
+Wesleyan University (CT) Cardinals,336,58,35
+West Alabama Tigers,2695,57,35
+West Chester Golden Rams,223,57,35
+West Georgia Wolves,2698,177,81
+West Liberty Hilltoppers,2699,57,35
+College of Faith Crusaders,3211,99,
+West Texas A&M Buffaloes,2704,57,35
+West Virginia Tech Golden Bears,2706,99,
+West Virginia Mountaineers,277,4,80
+West Virginia State Yellow Jackets,2707,57,35
+West Virginia Wesleyan Bobcats,455,57,35
+Western Carolina Catamounts,2717,29,81
+Western Colorado Mountaineers,2714,57,35
+Western Connecticut State Wolves,2843,58,35
+Western Illinois Leathernecks,2710,179,81
+Western Kentucky Hilltoppers,98,12,80
+Western Michigan Broncos,2711,15,80
+Western New England Golden Bears,2702,58,35
+Western New Mexico Mustangs,2703,57,35
+Western Oregon Wolves,2848,57,35
+Westfield State Owls,2909,58,35
+Westminster (PA) Titans,2849,58,35
+Westminster (MO) Blue Jays,433,58,35
+Wheaton Thunder,396,58,35
+Wheeling Cardinals,112335,57,35
+Whitworth Pirates,2721,58,35
+Widener Pride,2725,58,35
+Wilkes University Colonels,398,58,35
+Willamette Bearcats,2930,58,35
+William & Mary Tribe,2729,48,81
+William Jewell Cardinals,2911,57,35
+William Paterson Pioneers,2970,58,35
+William Penn Statesmen,2912,99,
+Williams Ephs,2731,58,35
+Williamson Trade Mechanics,3130,99,
+Wilmington (OH) Fightin' Quakers,2733,58,35
+Barton College Bulldogs,122666,57,35
+Wingate Bulldogs,351,57,35
+Winona State Warriors,2851,129,57
+Winston-Salem Rams,2736,104,57
+Wisconsin Badgers,275,5,80
+Wisconsin-Eau Claire Blugolds,2738,58,35
+Wisconsin-Lacrosse Eagles,2740,58,35
+Wisconsin Lutheran Warriors,2741,58,35
+Wisconsin-Oshkosh Titans,271,58,35
+Wisconsin-Platteville Pioneers,272,58,35
+Wisconsin-River Falls Falcons,2723,58,35
+Wisconsin-Stevens Pt Pointers,2743,58,35
+Wisconsin-Stout Blue Devils,2744,58,35
+Wisconsin-Whitewater Warhawks,2745,58,35
+Wittenberg Tigers,2746,58,35
+Wofford Terriers,2747,29,81
+Wooster Fighting Scots,2748,58,35
+WPI Engineers,2749,58,35
+Worcester State College Lancers,402,58,35
+Wyoming Cowboys,2751,17,80
+Yale Bulldogs,43,22,81
+Youngstown State Penguins,2754,21,81

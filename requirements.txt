@@ -1,0 +1,4 @@
+geopandas
+jupyter
+pytest
+pandas

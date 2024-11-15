@@ -1,0 +1,527 @@
+season_type,season_year,week_num,game_date,home_team_id,home_team_name,home_team_score,away_team_id,away_team_name,away_team_score,winner_team_id,winner_team_name,loser_team_id,loser_team_name
+3,2023,1,2024-01-01 22:00:00+00:00,130,Michigan Wolverines,27,333,Alabama Crimson Tide,20,130,Michigan Wolverines,333,Alabama Crimson Tide
+3,2023,1,2024-01-02 02:00:00+00:00,264,Washington Huskies,37,251,Texas Longhorns,31,264,Washington Huskies,251,Texas Longhorns
+3,2023,1,2024-01-01 18:00:00+00:00,2483,Oregon Ducks,45,2335,Liberty Flames,6,2483,Oregon Ducks,2335,Liberty Flames
+3,2023,1,2024-01-01 17:00:00+00:00,99,LSU Tigers,35,275,Wisconsin Badgers,31,99,LSU Tigers,275,Wisconsin Badgers
+3,2023,1,2024-01-01 18:00:00+00:00,2633,Tennessee Volunteers,35,2294,Iowa Hawkeyes,0,2633,Tennessee Volunteers,2294,Iowa Hawkeyes
+3,2023,1,2024-01-09 00:30:00+00:00,130,Michigan Wolverines,34,264,Washington Huskies,13,130,Michigan Wolverines,264,Washington Huskies
+2,2024,1,2024-08-24 16:00:00+00:00,59,Georgia Tech Yellow Jackets,24,52,Florida State Seminoles,21,59,Georgia Tech Yellow Jackets,52,Florida State Seminoles
+2,2024,1,2024-08-24 20:00:00+00:00,167,New Mexico Lobos,31,147,Montana State Bobcats,35,147,Montana State Bobcats,167,New Mexico Lobos
+2,2024,1,2024-08-25 00:00:00+00:00,2440,Nevada Wolf Pack,24,2567,SMU Mustangs,29,2567,SMU Mustangs,2440,Nevada Wolf Pack
+2,2024,1,2024-08-25 03:59:00+00:00,62,Hawai'i Rainbow Warriors,35,2169,Delaware State Hornets,14,62,Hawai'i Rainbow Warriors,2169,Delaware State Hornets
+2,2024,1,2024-08-30 00:00:00+00:00,142,Missouri Tigers,51,93,Murray State Racers,0,142,Missouri Tigers,93,Murray State Racers
+2,2024,1,2024-08-30 01:00:00+00:00,254,Utah Utes,49,253,Southern Utah Thunderbirds,0,254,Utah Utes,253,Southern Utah Thunderbirds
+2,2024,1,2024-08-30 00:00:00+00:00,2305,Kansas Jayhawks,48,2815,Lindenwood Lions,3,2305,Kansas Jayhawks,2815,Lindenwood Lions
+2,2024,1,2024-08-29 23:32:00+00:00,152,NC State Wolfpack,38,2717,Western Carolina Catamounts,21,152,NC State Wolfpack,2717,Western Carolina Catamounts
+2,2024,1,2024-08-29 22:00:00+00:00,164,Rutgers Scarlet Knights,44,47,Howard Bison,7,164,Rutgers Scarlet Knights,47,Howard Bison
+2,2024,1,2024-08-29 23:00:00+00:00,154,Wake Forest Demon Deacons,45,2448,North Carolina A&T Aggies,13,154,Wake Forest Demon Deacons,2448,North Carolina A&T Aggies
+2,2024,1,2024-08-29 23:00:00+00:00,2116,UCF Knights,57,160,New Hampshire Wildcats,3,2116,UCF Knights,160,New Hampshire Wildcats
+2,2024,1,2024-08-29 23:00:00+00:00,2084,Buffalo Bulls,30,322,Lafayette Leopards,13,2084,Buffalo Bulls,322,Lafayette Leopards
+2,2024,1,2024-08-29 23:00:00+00:00,189,Bowling Green Falcons,41,2230,Fordham Rams,17,189,Bowling Green Falcons,2230,Fordham Rams
+2,2024,1,2024-08-29 23:00:00+00:00,2117,Central Michigan Chippewas,66,2115,Central Connecticut Blue Devils,10,2117,Central Michigan Chippewas,2115,Central Connecticut Blue Devils
+2,2024,1,2024-08-29 23:30:00+00:00,8,Arkansas Razorbacks,70,2029,Arkansas-Pine Bluff Golden Lions,0,8,Arkansas Razorbacks,2029,Arkansas-Pine Bluff Golden Lions
+2,2024,1,2024-08-29 23:30:00+00:00,2649,Toledo Rockets,49,2184,Duquesne Dukes,10,2649,Toledo Rockets,2184,Duquesne Dukes
+2,2024,1,2024-08-30 00:00:00+00:00,38,Colorado Buffaloes,31,2449,North Dakota State Bison,26,38,Colorado Buffaloes,2449,North Dakota State Bison
+2,2024,1,2024-08-30 00:00:00+00:00,55,Jacksonville State Gamecocks,27,324,Coastal Carolina Chanticleers,55,324,Coastal Carolina Chanticleers,55,Jacksonville State Gamecocks
+2,2024,1,2024-08-30 00:00:00+00:00,5,UAB Blazers,41,2016,Alcorn State Braves,3,5,UAB Blazers,2016,Alcorn State Braves
+2,2024,1,2024-08-30 00:00:00+00:00,2655,Tulane Green Wave,52,2545,SE Louisiana Lions,0,2655,Tulane Green Wave,2545,SE Louisiana Lions
+2,2024,1,2024-08-30 00:00:00+00:00,202,Tulsa Golden Hurricane,62,2466,Northwestern State Demons,28,202,Tulsa Golden Hurricane,2466,Northwestern State Demons
+2,2024,1,2024-08-30 01:00:00+00:00,135,Minnesota Golden Gophers,17,153,North Carolina Tar Heels,19,153,North Carolina Tar Heels,135,Minnesota Golden Gophers
+2,2024,1,2024-08-30 01:00:00+00:00,2433,UL Monroe Warhawks,30,2296,Jackson State Tigers,14,2433,UL Monroe Warhawks,2296,Jackson State Tigers
+2,2024,1,2024-08-30 01:15:00+00:00,356,Illinois Fighting Illini,45,2197,Eastern Illinois Panthers,0,356,Illinois Fighting Illini,2197,Eastern Illinois Panthers
+2,2024,1,2024-08-30 02:00:00+00:00,23,San José State Spartans,42,16,Sacramento State Hornets,24,23,San José State Spartans,16,Sacramento State Hornets
+2,2024,1,2024-08-30 23:00:00+00:00,201,Oklahoma Sooners,51,218,Temple Owls,3,201,Oklahoma Sooners,218,Temple Owls
+2,2024,1,2024-08-30 22:00:00+00:00,349,Army Black Knights,42,2329,Lehigh Mountain Hawks,7,349,Army Black Knights,2329,Lehigh Mountain Hawks
+2,2024,1,2024-08-30 23:00:00+00:00,127,Michigan State Spartans,16,2226,Florida Atlantic Owls,10,127,Michigan State Spartans,2226,Florida Atlantic Owls
+2,2024,1,2024-08-30 23:30:00+00:00,150,Duke Blue Devils,26,2210,Elon Phoenix,3,150,Duke Blue Devils,2210,Elon Phoenix
+2,2024,1,2024-08-31 01:00:00+00:00,275,Wisconsin Badgers,28,2711,Western Michigan Broncos,14,275,Wisconsin Badgers,2711,Western Michigan Broncos
+2,2024,1,2024-08-31 02:30:00+00:00,24,Stanford Cardinal,27,2628,TCU Horned Frogs,34,2628,TCU Horned Frogs,24,Stanford Cardinal
+2,2024,1,2024-08-31 16:00:00+00:00,61,Georgia Bulldogs,34,228,Clemson Tigers,3,61,Georgia Bulldogs,228,Clemson Tigers
+2,2024,1,2024-08-31 19:30:00+00:00,194,Ohio State Buckeyes,52,2006,Akron Zips,6,194,Ohio State Buckeyes,2006,Akron Zips
+2,2024,1,2024-08-31 23:30:00+00:00,2483,Oregon Ducks,24,70,Idaho Vandals,14,2483,Oregon Ducks,70,Idaho Vandals
+2,2024,1,2024-08-31 19:30:00+00:00,251,Texas Longhorns,52,36,Colorado State Rams,0,251,Texas Longhorns,36,Colorado State Rams
+2,2024,1,2024-08-31 23:00:00+00:00,333,Alabama Crimson Tide,63,98,Western Kentucky Hilltoppers,0,333,Alabama Crimson Tide,98,Western Kentucky Hilltoppers
+2,2024,1,2024-08-31 23:00:00+00:00,145,Ole Miss Rebels,76,231,Furman Paladins,0,145,Ole Miss Rebels,231,Furman Paladins
+2,2024,1,2024-08-31 23:30:00+00:00,245,Texas A&M Aggies,13,87,Notre Dame Fighting Irish,23,87,Notre Dame Fighting Irish,245,Texas A&M Aggies
+2,2024,1,2024-08-31 16:00:00+00:00,277,West Virginia Mountaineers,12,213,Penn State Nittany Lions,34,213,Penn State Nittany Lions,277,West Virginia Mountaineers
+2,2024,1,2024-08-31 23:30:00+00:00,130,Michigan Wolverines,30,278,Fresno State Bulldogs,10,130,Michigan Wolverines,278,Fresno State Bulldogs
+2,2024,1,2024-08-31 16:45:00+00:00,2633,Tennessee Volunteers,69,236,Chattanooga Mocs,3,2633,Tennessee Volunteers,236,Chattanooga Mocs
+2,2024,1,2024-08-31 18:00:00+00:00,197,Oklahoma State Cowboys,44,2571,South Dakota State Jackrabbits,20,197,Oklahoma State Cowboys,2571,South Dakota State Jackrabbits
+2,2024,1,2024-08-31 23:00:00+00:00,2306,Kansas State Wildcats,41,2630,UT Martin Skyhawks,6,2306,Kansas State Wildcats,2630,UT Martin Skyhawks
+2,2024,1,2024-08-31 19:30:00+00:00,57,Florida Gators,17,2390,Miami Hurricanes,41,2390,Miami Hurricanes,57,Florida Gators
+2,2024,1,2024-09-01 02:30:00+00:00,12,Arizona Wildcats,61,167,New Mexico Lobos,39,12,Arizona Wildcats,167,New Mexico Lobos
+2,2024,1,2024-08-31 16:00:00+00:00,2294,Iowa Hawkeyes,40,2287,Illinois State Redbirds,0,2294,Iowa Hawkeyes,2287,Illinois State Redbirds
+2,2024,1,2024-08-31 16:00:00+00:00,238,Vanderbilt Commodores,34,259,Virginia Tech Hokies,27,238,Vanderbilt Commodores,259,Virginia Tech Hokies
+2,2024,1,2024-08-31 16:00:00+00:00,120,Maryland Terrapins,50,41,UConn Huskies,7,120,Maryland Terrapins,41,UConn Huskies
+2,2024,1,2024-08-31 16:00:00+00:00,97,Louisville Cardinals,62,2046,Austin Peay Governors,0,97,Louisville Cardinals,2046,Austin Peay Governors
+2,2024,1,2024-08-31 16:00:00+00:00,2509,Purdue Boilermakers,49,282,Indiana State Sycamores,0,2509,Purdue Boilermakers,282,Indiana State Sycamores
+2,2024,1,2024-08-31 16:00:00+00:00,221,Pittsburgh Panthers,55,2309,Kent State Golden Flashes,24,221,Pittsburgh Panthers,2309,Kent State Golden Flashes
+2,2024,1,2024-08-31 16:00:00+00:00,2426,Navy Midshipmen,49,2083,Bucknell Bison,21,2426,Navy Midshipmen,2083,Bucknell Bison
+2,2024,1,2024-08-31 18:30:00+00:00,2132,Cincinnati Bearcats,38,119,Towson Tigers,20,2132,Cincinnati Bearcats,119,Towson Tigers
+2,2024,1,2024-08-31 19:00:00+00:00,265,Washington State Cougars,70,2502,Portland State Vikings,30,265,Washington State Cougars,2502,Portland State Vikings
+2,2024,1,2024-08-31 19:30:00+00:00,84,Indiana Hoosiers,31,2229,Florida International Panthers,7,84,Indiana Hoosiers,2229,Florida International Panthers
+2,2024,1,2024-08-31 19:30:00+00:00,158,Nebraska Cornhuskers,40,2638,UTEP Miners,7,158,Nebraska Cornhuskers,2638,UTEP Miners
+2,2024,1,2024-08-31 19:30:00+00:00,113,Massachusetts Minutemen,14,2199,Eastern Michigan Eagles,28,2199,Eastern Michigan Eagles,113,Massachusetts Minutemen
+2,2024,1,2024-08-31 19:30:00+00:00,2026,App State Mountaineers,38,2193,East Tennessee State Buccaneers,10,2026,App State Mountaineers,2193,East Tennessee State Buccaneers
+2,2024,1,2024-08-31 19:30:00+00:00,66,Iowa State Cyclones,21,155,North Dakota Fighting Hawks,3,66,Iowa State Cyclones,155,North Dakota Fighting Hawks
+2,2024,1,2024-08-31 19:30:00+00:00,183,Syracuse Orange,38,195,Ohio Bobcats,22,183,Syracuse Orange,195,Ohio Bobcats
+2,2024,1,2024-08-31 19:30:00+00:00,2636,UTSA Roadrunners,28,338,Kennesaw State Owls,16,2636,UTSA Roadrunners,338,Kennesaw State Owls
+2,2024,1,2024-08-31 19:30:00+00:00,2005,Air Force Falcons,21,2771,Merrimack Warriors,6,2005,Air Force Falcons,2771,Merrimack Warriors
+2,2024,1,2024-08-31 19:30:00+00:00,77,Northwestern Wildcats,13,193,Miami (OH) RedHawks,6,77,Northwestern Wildcats,193,Miami (OH) RedHawks
+2,2024,1,2024-08-31 19:30:00+00:00,2459,Northern Illinois Huskies,54,2710,Western Illinois Leathernecks,15,2459,Northern Illinois Huskies,2710,Western Illinois Leathernecks
+2,2024,1,2024-08-31 20:00:00+00:00,290,Georgia Southern Eagles,45,68,Boise State Broncos,56,68,Boise State Broncos,290,Georgia Southern Eagles
+2,2024,1,2024-08-31 20:15:00+00:00,2579,South Carolina Gamecocks,23,295,Old Dominion Monarchs,19,2579,South Carolina Gamecocks,295,Old Dominion Monarchs
+2,2024,1,2024-08-31 21:00:00+00:00,276,Marshall Thundering Herd,45,2619,Stony Brook Seawolves,3,276,Marshall Thundering Herd,2619,Stony Brook Seawolves
+2,2024,1,2024-08-31 21:00:00+00:00,25,California Golden Bears,31,302,UC Davis Aggies,13,25,California Golden Bears,302,UC Davis Aggies
+2,2024,1,2024-08-31 21:00:00+00:00,6,South Alabama Jaguars,38,249,North Texas Mean Green,52,249,North Texas Mean Green,6,South Alabama Jaguars
+2,2024,1,2024-08-31 22:00:00+00:00,344,Mississippi State Bulldogs,56,2198,Eastern Kentucky Colonels,7,344,Mississippi State Bulldogs,2198,Eastern Kentucky Colonels
+2,2024,1,2024-08-31 22:00:00+00:00,2335,Liberty Flames,41,2097,Campbell Fighting Camels,24,2335,Liberty Flames,2097,Campbell Fighting Camels
+2,2024,1,2024-08-31 22:00:00+00:00,258,Virginia Cavaliers,34,257,Richmond Spiders,13,258,Virginia Cavaliers,257,Richmond Spiders
+2,2024,1,2024-08-31 22:00:00+00:00,151,East Carolina Pirates,42,2450,Norfolk State Spartans,3,151,East Carolina Pirates,2450,Norfolk State Spartans
+2,2024,1,2024-08-31 22:30:00+00:00,204,Oregon State Beavers,38,304,Idaho State Bengals,15,204,Oregon State Beavers,304,Idaho State Bengals
+2,2024,1,2024-08-31 23:00:00+00:00,2032,Arkansas State Red Wolves,34,2110,Central Arkansas Bears,31,2032,Arkansas State Red Wolves,2110,Central Arkansas Bears
+2,2024,1,2024-08-31 23:00:00+00:00,58,South Florida Bulls,48,2065,Bethune-Cookman Wildcats,3,58,South Florida Bulls,2065,Bethune-Cookman Wildcats
+2,2024,1,2024-08-31 23:00:00+00:00,239,Baylor Bears,45,2627,Tarleton State Texans,3,239,Baylor Bears,2627,Tarleton State Texans
+2,2024,1,2024-08-31 23:00:00+00:00,248,Houston Cougars,7,2439,UNLV Rebels,27,2439,UNLV Rebels,248,Houston Cougars
+2,2024,1,2024-08-31 23:00:00+00:00,2393,Middle Tennessee Blue Raiders,32,2635,Tennessee Tech Golden Eagles,25,2393,Middle Tennessee Blue Raiders,2635,Tennessee Tech Golden Eagles
+2,2024,1,2024-08-31 23:00:00+00:00,242,Rice Owls,14,2534,Sam Houston Bearkats,34,2534,Sam Houston Bearkats,242,Rice Owls
+2,2024,1,2024-08-31 23:00:00+00:00,2653,Troy Trojans,26,2440,Nevada Wolf Pack,28,2440,Nevada Wolf Pack,2653,Troy Trojans
+2,2024,1,2024-08-31 23:00:00+00:00,235,Memphis Tigers,40,2453,North Alabama Lions,0,235,Memphis Tigers,2453,North Alabama Lions
+2,2024,1,2024-08-31 23:30:00+00:00,2,Auburn Tigers,73,2010,Alabama A&M Bulldogs,3,2,Auburn Tigers,2010,Alabama A&M Bulldogs
+2,2024,1,2024-08-31 23:30:00+00:00,62,Hawai'i Rainbow Warriors,13,26,UCLA Bruins,16,26,UCLA Bruins,62,Hawai'i Rainbow Warriors
+2,2024,1,2024-08-31 23:30:00+00:00,2641,Texas Tech Red Raiders,52,2000,Abilene Christian Wildcats,51,2641,Texas Tech Red Raiders,2000,Abilene Christian Wildcats
+2,2024,1,2024-08-31 23:45:00+00:00,96,Kentucky Wildcats,31,2572,Southern Miss Golden Eagles,0,96,Kentucky Wildcats,2572,Southern Miss Golden Eagles
+2,2024,1,2024-09-01 00:00:00+00:00,252,BYU Cougars,41,79,Southern Illinois Salukis,13,252,BYU Cougars,79,Southern Illinois Salukis
+2,2024,1,2024-09-01 00:00:00+00:00,59,Georgia Tech Yellow Jackets,35,2247,Georgia State Panthers,12,59,Georgia Tech Yellow Jackets,2247,Georgia State Panthers
+2,2024,1,2024-09-01 00:00:00+00:00,2567,SMU Mustangs,59,2277,Houston Christian Huskies,7,2567,SMU Mustangs,2277,Houston Christian Huskies
+2,2024,1,2024-09-01 00:00:00+00:00,309,Louisiana Ragin' Cajuns,40,2755,Grambling Tigers,10,309,Louisiana Ragin' Cajuns,2755,Grambling Tigers
+2,2024,1,2024-09-01 00:00:00+00:00,2348,Louisiana Tech Bulldogs,25,2447,Nicholls Colonels,17,2348,Louisiana Tech Bulldogs,2447,Nicholls Colonels
+2,2024,1,2024-09-01 00:00:00+00:00,21,San Diego State Aztecs,45,2837,Texas A&M-Commerce Lions,14,21,San Diego State Aztecs,2837,Texas A&M-Commerce Lions
+2,2024,1,2024-09-01 00:00:00+00:00,328,Utah State Aggies,36,2523,Robert Morris Colonials,14,328,Utah State Aggies,2523,Robert Morris Colonials
+2,2024,1,2024-09-01 00:00:00+00:00,2429,Charlotte 49ers,7,256,James Madison Dukes,30,256,James Madison Dukes,2429,Charlotte 49ers
+2,2024,1,2024-09-01 00:00:00+00:00,326,Texas State Bobcats,34,2320,Lamar Cardinals,27,326,Texas State Bobcats,2320,Lamar Cardinals
+2,2024,1,2024-09-01 01:00:00+00:00,166,New Mexico State Aggies,23,2546,Southeast Missouri State Redhawks,16,166,New Mexico State Aggies,2546,Southeast Missouri State Redhawks
+2,2024,1,2024-09-01 02:30:00+00:00,9,Arizona State Sun Devils,48,2751,Wyoming Cowboys,7,9,Arizona State Sun Devils,2751,Wyoming Cowboys
+2,2024,1,2024-09-01 03:00:00+00:00,264,Washington Huskies,35,2692,Weber State Wildcats,3,264,Washington Huskies,2692,Weber State Wildcats
+2,2024,1,2024-09-01 23:30:00+00:00,99,LSU Tigers,20,30,USC Trojans,27,30,USC Trojans,99,LSU Tigers
+2,2024,1,2024-09-02 23:30:00+00:00,52,Florida State Seminoles,13,103,Boston College Eagles,28,103,Boston College Eagles,52,Florida State Seminoles
+2,2024,2,2024-09-06 23:00:00+00:00,84,Indiana Hoosiers,77,2710,Western Illinois Leathernecks,3,84,Indiana Hoosiers,2710,Western Illinois Leathernecks
+2,2024,2,2024-09-06 23:00:00+00:00,2567,SMU Mustangs,15,252,BYU Cougars,18,252,BYU Cougars,2567,SMU Mustangs
+2,2024,2,2024-09-07 01:00:00+00:00,77,Northwestern Wildcats,20,150,Duke Blue Devils,26,150,Duke Blue Devils,77,Northwestern Wildcats
+2,2024,2,2024-09-07 18:00:00+00:00,61,Georgia Bulldogs,48,2635,Tennessee Tech Golden Eagles,3,61,Georgia Bulldogs,2635,Tennessee Tech Golden Eagles
+2,2024,2,2024-09-07 23:30:00+00:00,194,Ohio State Buckeyes,56,2711,Western Michigan Broncos,0,194,Ohio State Buckeyes,2711,Western Michigan Broncos
+2,2024,2,2024-09-07 16:00:00+00:00,130,Michigan Wolverines,12,251,Texas Longhorns,31,251,Texas Longhorns,130,Michigan Wolverines
+2,2024,2,2024-09-07 23:00:00+00:00,333,Alabama Crimson Tide,42,58,South Florida Bulls,16,333,Alabama Crimson Tide,58,South Florida Bulls
+2,2024,2,2024-09-07 19:30:00+00:00,87,Notre Dame Fighting Irish,14,2459,Northern Illinois Huskies,16,2459,Northern Illinois Huskies,87,Notre Dame Fighting Irish
+2,2024,2,2024-09-07 20:15:00+00:00,145,Ole Miss Rebels,52,2393,Middle Tennessee Blue Raiders,3,145,Ole Miss Rebels,2393,Middle Tennessee Blue Raiders
+2,2024,2,2024-09-08 02:00:00+00:00,2483,Oregon Ducks,37,68,Boise State Broncos,34,2483,Oregon Ducks,68,Boise State Broncos
+2,2024,2,2024-09-07 16:00:00+00:00,213,Penn State Nittany Lions,34,189,Bowling Green Falcons,27,213,Penn State Nittany Lions,189,Bowling Green Falcons
+2,2024,2,2024-09-07 23:00:00+00:00,142,Missouri Tigers,38,2084,Buffalo Bulls,0,142,Missouri Tigers,2084,Buffalo Bulls
+2,2024,2,2024-09-07 19:30:00+00:00,254,Utah Utes,23,239,Baylor Bears,12,254,Utah Utes,239,Baylor Bears
+2,2024,2,2024-09-07 22:00:00+00:00,2390,Miami Hurricanes,56,50,Florida A&M Rattlers,9,2390,Miami Hurricanes,50,Florida A&M Rattlers
+2,2024,2,2024-09-08 03:00:00+00:00,30,USC Trojans,48,328,Utah State Aggies,0,30,USC Trojans,328,Utah State Aggies
+2,2024,2,2024-09-07 23:30:00+00:00,152,NC State Wolfpack,10,2633,Tennessee Volunteers,51,2633,Tennessee Volunteers,152,NC State Wolfpack
+2,2024,2,2024-09-07 23:45:00+00:00,201,Oklahoma Sooners,16,248,Houston Cougars,12,201,Oklahoma Sooners,248,Houston Cougars
+2,2024,2,2024-09-07 16:00:00+00:00,197,Oklahoma State Cowboys,39,8,Arkansas Razorbacks,31,197,Oklahoma State Cowboys,8,Arkansas Razorbacks
+2,2024,2,2024-09-07 16:00:00+00:00,2655,Tulane Green Wave,27,2306,Kansas State Wildcats,34,2306,Kansas State Wildcats,2655,Tulane Green Wave
+2,2024,2,2024-09-07 23:30:00+00:00,99,LSU Tigers,44,2447,Nicholls Colonels,21,99,LSU Tigers,2447,Nicholls Colonels
+2,2024,2,2024-09-07 23:00:00+00:00,356,Illinois Fighting Illini,23,2305,Kansas Jayhawks,17,356,Illinois Fighting Illini,2305,Kansas Jayhawks
+2,2024,2,2024-09-08 02:00:00+00:00,12,Arizona Wildcats,22,2464,Northern Arizona Lumberjacks,10,12,Arizona Wildcats,2464,Northern Arizona Lumberjacks
+2,2024,2,2024-09-07 19:30:00+00:00,2294,Iowa Hawkeyes,19,66,Iowa State Cyclones,20,66,Iowa State Cyclones,2294,Iowa Hawkeyes
+2,2024,2,2024-09-07 19:30:00+00:00,97,Louisville Cardinals,49,55,Jacksonville State Gamecocks,14,97,Louisville Cardinals,55,Jacksonville State Gamecocks
+2,2024,2,2024-09-07 16:00:00+00:00,183,Syracuse Orange,31,59,Georgia Tech Yellow Jackets,28,183,Syracuse Orange,59,Georgia Tech Yellow Jackets
+2,2024,2,2024-09-08 00:00:00+00:00,228,Clemson Tigers,66,2026,App State Mountaineers,20,228,Clemson Tigers,2026,App State Mountaineers
+2,2024,2,2024-09-07 16:00:00+00:00,135,Minnesota Golden Gophers,48,227,Rhode Island Rams,0,135,Minnesota Golden Gophers,227,Rhode Island Rams
+2,2024,2,2024-09-07 16:00:00+00:00,164,Rutgers Scarlet Knights,49,2006,Akron Zips,17,164,Rutgers Scarlet Knights,2006,Akron Zips
+2,2024,2,2024-09-07 16:00:00+00:00,2132,Cincinnati Bearcats,27,221,Pittsburgh Panthers,28,221,Pittsburgh Panthers,2132,Cincinnati Bearcats
+2,2024,2,2024-09-07 16:00:00+00:00,41,UConn Huskies,63,2771,Merrimack Warriors,17,41,UConn Huskies,2771,Merrimack Warriors
+2,2024,2,2024-09-07 16:00:00+00:00,235,Memphis Tigers,38,2653,Troy Trojans,17,235,Memphis Tigers,2653,Troy Trojans
+2,2024,2,2024-09-07 16:00:00+00:00,2226,Florida Atlantic Owls,7,349,Army Black Knights,24,349,Army Black Knights,2226,Florida Atlantic Owls
+2,2024,2,2024-09-07 16:45:00+00:00,245,Texas A&M Aggies,52,2377,McNeese Cowboys,10,245,Texas A&M Aggies,2377,McNeese Cowboys
+2,2024,2,2024-09-07 18:00:00+00:00,2050,Ball State Cardinals,42,2623,Missouri State Bears,34,2050,Ball State Cardinals,2623,Missouri State Bears
+2,2024,2,2024-09-07 18:30:00+00:00,2309,Kent State Golden Flashes,17,2598,St. Francis (PA) Red Flash,23,2598,St. Francis (PA) Red Flash,2309,Kent State Golden Flashes
+2,2024,2,2024-09-07 19:00:00+00:00,2439,UNLV Rebels,72,3101,Utah Tech Trailblazers,14,2439,UNLV Rebels,3101,Utah Tech Trailblazers
+2,2024,2,2024-09-07 19:30:00+00:00,2,Auburn Tigers,14,25,California Golden Bears,21,25,California Golden Bears,2,Auburn Tigers
+2,2024,2,2024-09-07 19:30:00+00:00,96,Kentucky Wildcats,6,2579,South Carolina Gamecocks,31,2579,South Carolina Gamecocks,96,Kentucky Wildcats
+2,2024,2,2024-09-07 19:30:00+00:00,120,Maryland Terrapins,24,127,Michigan State Spartans,27,127,Michigan State Spartans,120,Maryland Terrapins
+2,2024,2,2024-09-07 19:30:00+00:00,264,Washington Huskies,30,2199,Eastern Michigan Eagles,9,264,Washington Huskies,2199,Eastern Michigan Eagles
+2,2024,2,2024-09-07 19:30:00+00:00,275,Wisconsin Badgers,27,233,South Dakota Coyotes,13,275,Wisconsin Badgers,233,South Dakota Coyotes
+2,2024,2,2024-09-07 19:30:00+00:00,2649,Toledo Rockets,38,113,Massachusetts Minutemen,23,2649,Toledo Rockets,113,Massachusetts Minutemen
+2,2024,2,2024-09-07 19:30:00+00:00,103,Boston College Eagles,56,2184,Duquesne Dukes,0,103,Boston College Eagles,2184,Duquesne Dukes
+2,2024,2,2024-09-07 19:30:00+00:00,153,North Carolina Tar Heels,38,2429,Charlotte 49ers,20,153,North Carolina Tar Heels,2429,Charlotte 49ers
+2,2024,2,2024-09-07 19:30:00+00:00,2751,Wyoming Cowboys,13,70,Idaho Vandals,17,70,Idaho Vandals,2751,Wyoming Cowboys
+2,2024,2,2024-09-07 19:30:00+00:00,2426,Navy Midshipmen,38,218,Temple Owls,11,2426,Navy Midshipmen,218,Temple Owls
+2,2024,2,2024-09-07 20:00:00+00:00,326,Texas State Bobcats,49,2636,UTSA Roadrunners,10,326,Texas State Bobcats,2636,UTSA Roadrunners
+2,2024,2,2024-09-07 20:30:00+00:00,259,Virginia Tech Hokies,31,276,Marshall Thundering Herd,14,259,Virginia Tech Hokies,276,Marshall Thundering Herd
+2,2024,2,2024-09-07 22:00:00+00:00,277,West Virginia Mountaineers,49,399,UAlbany Great Danes,14,277,West Virginia Mountaineers,399,UAlbany Great Danes
+2,2024,2,2024-09-07 22:00:00+00:00,2229,Florida International Panthers,52,2117,Central Michigan Chippewas,16,2229,Florida International Panthers,2117,Central Michigan Chippewas
+2,2024,2,2024-09-07 22:00:00+00:00,256,James Madison Dukes,13,2241,Gardner-Webb Runnin' Bulldogs,6,256,James Madison Dukes,2241,Gardner-Webb Runnin' Bulldogs
+2,2024,2,2024-09-07 22:00:00+00:00,295,Old Dominion Monarchs,14,151,East Carolina Pirates,20,151,East Carolina Pirates,295,Old Dominion Monarchs
+2,2024,2,2024-09-07 22:00:00+00:00,195,Ohio Bobcats,27,6,South Alabama Jaguars,20,195,Ohio Bobcats,6,South Alabama Jaguars
+2,2024,2,2024-09-07 23:00:00+00:00,57,Florida Gators,45,2535,Samford Bulldogs,7,57,Florida Gators,2535,Samford Bulldogs
+2,2024,2,2024-09-07 23:00:00+00:00,324,Coastal Carolina Chanticleers,40,2729,William & Mary Tribe,21,324,Coastal Carolina Chanticleers,2729,William & Mary Tribe
+2,2024,2,2024-09-07 23:00:00+00:00,98,Western Kentucky Hilltoppers,31,2198,Eastern Kentucky Colonels,0,98,Western Kentucky Hilltoppers,2198,Eastern Kentucky Colonels
+2,2024,2,2024-09-07 23:00:00+00:00,2247,Georgia State Panthers,24,236,Chattanooga Mocs,21,2247,Georgia State Panthers,236,Chattanooga Mocs
+2,2024,2,2024-09-07 23:00:00+00:00,24,Stanford Cardinal,41,13,Cal Poly Mustangs,7,24,Stanford Cardinal,13,Cal Poly Mustangs
+2,2024,2,2024-09-07 23:00:00+00:00,154,Wake Forest Demon Deacons,30,258,Virginia Cavaliers,31,258,Virginia Cavaliers,154,Wake Forest Demon Deacons
+2,2024,2,2024-09-07 23:00:00+00:00,338,Kennesaw State Owls,10,309,Louisiana Ragin' Cajuns,34,309,Louisiana Ragin' Cajuns,338,Kennesaw State Owls
+2,2024,2,2024-09-07 23:00:00+00:00,2005,Air Force Falcons,7,23,San José State Spartans,17,23,San José State Spartans,2005,Air Force Falcons
+2,2024,2,2024-09-07 23:00:00+00:00,36,Colorado State Rams,38,2458,Northern Colorado Bears,17,36,Colorado State Rams,2458,Northern Colorado Bears
+2,2024,2,2024-09-07 23:00:00+00:00,2440,Nevada Wolf Pack,17,290,Georgia Southern Eagles,20,290,Georgia Southern Eagles,2440,Nevada Wolf Pack
+2,2024,2,2024-09-07 23:00:00+00:00,2032,Arkansas State Red Wolves,28,202,Tulsa Golden Hurricane,24,2032,Arkansas State Red Wolves,202,Tulsa Golden Hurricane
+2,2024,2,2024-09-07 23:00:00+00:00,2433,UL Monroe Warhawks,32,5,UAB Blazers,6,2433,UL Monroe Warhawks,5,UAB Blazers
+2,2024,2,2024-09-07 23:00:00+00:00,2572,Southern Miss Golden Eagles,35,2545,SE Louisiana Lions,10,2572,Southern Miss Golden Eagles,2545,SE Louisiana Lions
+2,2024,2,2024-09-07 23:00:00+00:00,242,Rice Owls,69,2640,Texas Southern Tigers,7,242,Rice Owls,2640,Texas Southern Tigers
+2,2024,2,2024-09-07 23:02:00+00:00,2116,UCF Knights,45,2534,Sam Houston Bearkats,14,2116,UCF Knights,2534,Sam Houston Bearkats
+2,2024,2,2024-09-07 23:30:00+00:00,238,Vanderbilt Commodores,55,2016,Alcorn State Braves,0,238,Vanderbilt Commodores,2016,Alcorn State Braves
+2,2024,2,2024-09-07 23:30:00+00:00,158,Nebraska Cornhuskers,28,38,Colorado Buffaloes,10,158,Nebraska Cornhuskers,38,Colorado Buffaloes
+2,2024,2,2024-09-07 23:30:00+00:00,249,North Texas Mean Green,35,2617,Stephen F. Austin Lumberjacks,20,249,North Texas Mean Green,2617,Stephen F. Austin Lumberjacks
+2,2024,2,2024-09-08 00:00:00+00:00,2628,TCU Horned Frogs,45,2341,Long Island University Sharks,0,2628,TCU Horned Frogs,2341,Long Island University Sharks
+2,2024,2,2024-09-08 01:00:00+00:00,2638,UTEP Miners,24,253,Southern Utah Thunderbirds,27,253,Southern Utah Thunderbirds,2638,UTEP Miners
+2,2024,2,2024-09-08 02:00:00+00:00,265,Washington State Cougars,37,2641,Texas Tech Red Raiders,16,265,Washington State Cougars,2641,Texas Tech Red Raiders
+2,2024,2,2024-09-08 02:00:00+00:00,278,Fresno State Bulldogs,46,16,Sacramento State Hornets,30,278,Fresno State Bulldogs,16,Sacramento State Hornets
+2,2024,2,2024-09-08 02:15:00+00:00,166,New Mexico State Aggies,24,2335,Liberty Flames,30,2335,Liberty Flames,166,New Mexico State Aggies
+2,2024,2,2024-09-08 02:30:00+00:00,9,Arizona State Sun Devils,30,344,Mississippi State Bulldogs,23,9,Arizona State Sun Devils,344,Mississippi State Bulldogs
+2,2024,2,2024-09-08 02:30:00+00:00,21,San Diego State Aztecs,0,204,Oregon State Beavers,21,204,Oregon State Beavers,21,San Diego State Aztecs
+2,2024,3,2024-09-12 23:30:00+00:00,326,Texas State Bobcats,28,9,Arizona State Sun Devils,31,9,Arizona State Sun Devils,326,Texas State Bobcats
+2,2024,3,2024-09-12 23:30:00+00:00,6,South Alabama Jaguars,87,2466,Northwestern State Demons,10,6,South Alabama Jaguars,2466,Northwestern State Demons
+2,2024,3,2024-09-14 00:00:00+00:00,2306,Kansas State Wildcats,31,12,Arizona Wildcats,7,2306,Kansas State Wildcats,12,Arizona Wildcats
+2,2024,3,2024-09-13 23:00:00+00:00,2305,Kansas Jayhawks,20,2439,UNLV Rebels,23,2439,UNLV Rebels,2305,Kansas Jayhawks
+2,2024,3,2024-09-14 23:30:00+00:00,96,Kentucky Wildcats,12,61,Georgia Bulldogs,13,61,Georgia Bulldogs,96,Kentucky Wildcats
+2,2024,3,2024-09-14 23:00:00+00:00,251,Texas Longhorns,56,2636,UTSA Roadrunners,7,251,Texas Longhorns,2636,UTSA Roadrunners
+2,2024,3,2024-09-14 16:00:00+00:00,275,Wisconsin Badgers,10,333,Alabama Crimson Tide,42,333,Alabama Crimson Tide,275,Wisconsin Badgers
+2,2024,3,2024-09-14 22:30:00+00:00,154,Wake Forest Demon Deacons,6,145,Ole Miss Rebels,40,145,Ole Miss Rebels,154,Wake Forest Demon Deacons
+2,2024,3,2024-09-14 16:45:00+00:00,142,Missouri Tigers,27,103,Boston College Eagles,21,142,Missouri Tigers,103,Boston College Eagles
+2,2024,3,2024-09-14 23:45:00+00:00,2633,Tennessee Volunteers,71,2309,Kent State Golden Flashes,0,2633,Tennessee Volunteers,2309,Kent State Golden Flashes
+2,2024,3,2024-09-14 19:30:00+00:00,204,Oregon State Beavers,14,2483,Oregon Ducks,49,2483,Oregon Ducks,204,Oregon State Beavers
+2,2024,3,2024-09-14 21:55:00+00:00,2390,Miami Hurricanes,62,2050,Ball State Cardinals,0,2390,Miami Hurricanes,2050,Ball State Cardinals
+2,2024,3,2024-09-14 20:30:00+00:00,328,Utah State Aggies,21,254,Utah Utes,38,254,Utah Utes,328,Utah State Aggies
+2,2024,3,2024-09-14 16:00:00+00:00,202,Tulsa Golden Hurricane,10,197,Oklahoma State Cowboys,45,197,Oklahoma State Cowboys,202,Tulsa Golden Hurricane
+2,2024,3,2024-09-14 19:30:00+00:00,201,Oklahoma Sooners,34,2655,Tulane Green Wave,19,201,Oklahoma Sooners,2655,Tulane Green Wave
+2,2024,3,2024-09-14 16:00:00+00:00,2579,South Carolina Gamecocks,33,99,LSU Tigers,36,99,LSU Tigers,2579,South Carolina Gamecocks
+2,2024,3,2024-09-14 16:00:00+00:00,130,Michigan Wolverines,28,2032,Arkansas State Red Wolves,18,130,Michigan Wolverines,2032,Arkansas State Red Wolves
+2,2024,3,2024-09-14 19:30:00+00:00,2509,Purdue Boilermakers,7,87,Notre Dame Fighting Irish,66,87,Notre Dame Fighting Irish,2509,Purdue Boilermakers
+2,2024,3,2024-09-14 23:30:00+00:00,158,Nebraska Cornhuskers,34,2460,Northern Iowa Panthers,3,158,Nebraska Cornhuskers,2460,Northern Iowa Panthers
+2,2024,3,2024-09-14 16:00:00+00:00,356,Illinois Fighting Illini,30,2117,Central Michigan Chippewas,9,356,Illinois Fighting Illini,2117,Central Michigan Chippewas
+2,2024,3,2024-09-14 16:00:00+00:00,52,Florida State Seminoles,12,235,Memphis Tigers,20,235,Memphis Tigers,52,Florida State Seminoles
+2,2024,3,2024-09-14 16:00:00+00:00,152,NC State Wolfpack,30,2348,Louisiana Tech Bulldogs,20,152,NC State Wolfpack,2348,Louisiana Tech Bulldogs
+2,2024,3,2024-09-14 16:00:00+00:00,193,Miami (OH) RedHawks,16,2132,Cincinnati Bearcats,27,2132,Cincinnati Bearcats,193,Miami (OH) RedHawks
+2,2024,3,2024-09-14 16:00:00+00:00,2641,Texas Tech Red Raiders,66,249,North Texas Mean Green,21,2641,Texas Tech Red Raiders,249,North Texas Mean Green
+2,2024,3,2024-09-14 17:00:00+00:00,2084,Buffalo Bulls,34,113,Massachusetts Minutemen,3,2084,Buffalo Bulls,113,Massachusetts Minutemen
+2,2024,3,2024-09-14 18:00:00+00:00,218,Temple Owls,20,324,Coastal Carolina Chanticleers,28,324,Coastal Carolina Chanticleers,218,Temple Owls
+2,2024,3,2024-09-14 19:30:00+00:00,57,Florida Gators,20,245,Texas A&M Aggies,33,245,Texas A&M Aggies,57,Florida Gators
+2,2024,3,2024-09-14 19:30:00+00:00,127,Michigan State Spartans,40,2504,Prairie View A&M Panthers,0,127,Michigan State Spartans,2504,Prairie View A&M Panthers
+2,2024,3,2024-09-14 19:30:00+00:00,135,Minnesota Golden Gophers,27,2440,Nevada Wolf Pack,0,135,Minnesota Golden Gophers,2440,Nevada Wolf Pack
+2,2024,3,2024-09-14 19:30:00+00:00,264,Washington Huskies,19,265,Washington State Cougars,24,265,Washington State Cougars,264,Washington Huskies
+2,2024,3,2024-09-14 19:30:00+00:00,59,Georgia Tech Yellow Jackets,59,2678,VMI Keydets,7,59,Georgia Tech Yellow Jackets,2678,VMI Keydets
+2,2024,3,2024-09-14 19:30:00+00:00,221,Pittsburgh Panthers,38,277,West Virginia Mountaineers,34,221,Pittsburgh Panthers,277,West Virginia Mountaineers
+2,2024,3,2024-09-14 19:30:00+00:00,195,Ohio Bobcats,21,2415,Morgan State Bears,6,195,Ohio Bobcats,2415,Morgan State Bears
+2,2024,3,2024-09-14 20:00:00+00:00,2294,Iowa Hawkeyes,38,2653,Troy Trojans,21,2294,Iowa Hawkeyes,2653,Troy Trojans
+2,2024,3,2024-09-14 20:00:00+00:00,151,East Carolina Pirates,19,2026,App State Mountaineers,21,2026,App State Mountaineers,151,East Carolina Pirates
+2,2024,3,2024-09-14 20:15:00+00:00,8,Arkansas Razorbacks,37,5,UAB Blazers,27,8,Arkansas Razorbacks,5,UAB Blazers
+2,2024,3,2024-09-14 22:00:00+00:00,150,Duke Blue Devils,26,41,UConn Huskies,21,150,Duke Blue Devils,41,UConn Huskies
+2,2024,3,2024-09-14 22:00:00+00:00,153,North Carolina Tar Heels,45,2428,North Carolina Central Eagles,10,153,North Carolina Tar Heels,2428,North Carolina Central Eagles
+2,2024,3,2024-09-14 22:00:00+00:00,295,Old Dominion Monarchs,17,259,Virginia Tech Hokies,37,259,Virginia Tech Hokies,295,Old Dominion Monarchs
+2,2024,3,2024-09-14 22:00:00+00:00,2335,Liberty Flames,28,2638,UTEP Miners,10,2335,Liberty Flames,2638,UTEP Miners
+2,2024,3,2024-09-14 22:00:00+00:00,290,Georgia Southern Eagles,42,2569,South Carolina State Bulldogs,14,290,Georgia Southern Eagles,2569,South Carolina State Bulldogs
+2,2024,3,2024-09-14 22:00:00+00:00,2006,Akron Zips,31,2142,Colgate Raiders,20,2006,Akron Zips,2142,Colgate Raiders
+2,2024,3,2024-09-14 22:00:00+00:00,2429,Charlotte 49ers,27,2241,Gardner-Webb Runnin' Bulldogs,26,2429,Charlotte 49ers,2241,Gardner-Webb Runnin' Bulldogs
+2,2024,3,2024-09-14 22:30:00+00:00,2711,Western Michigan Broncos,59,2065,Bethune-Cookman Wildcats,31,2711,Western Michigan Broncos,2065,Bethune-Cookman Wildcats
+2,2024,3,2024-09-14 23:00:00+00:00,2247,Georgia State Panthers,36,238,Vanderbilt Commodores,32,2247,Georgia State Panthers,238,Vanderbilt Commodores
+2,2024,3,2024-09-14 23:00:00+00:00,2199,Eastern Michigan Eagles,37,55,Jacksonville State Gamecocks,34,2199,Eastern Michigan Eagles,55,Jacksonville State Gamecocks
+2,2024,3,2024-09-14 23:00:00+00:00,23,San José State Spartans,31,338,Kennesaw State Owls,10,23,San José State Spartans,338,Kennesaw State Owls
+2,2024,3,2024-09-14 23:00:00+00:00,2393,Middle Tennessee Blue Raiders,21,98,Western Kentucky Hilltoppers,49,98,Western Kentucky Hilltoppers,2393,Middle Tennessee Blue Raiders
+2,2024,3,2024-09-14 23:00:00+00:00,2534,Sam Houston Bearkats,31,62,Hawai'i Rainbow Warriors,13,2534,Sam Houston Bearkats,62,Hawai'i Rainbow Warriors
+2,2024,3,2024-09-14 23:00:00+00:00,2572,Southern Miss Golden Eagles,24,58,South Florida Bulls,49,58,South Florida Bulls,2572,Southern Miss Golden Eagles
+2,2024,3,2024-09-14 23:30:00+00:00,2,Auburn Tigers,45,167,New Mexico Lobos,19,2,Auburn Tigers,167,New Mexico Lobos
+2,2024,3,2024-09-14 23:30:00+00:00,344,Mississippi State Bulldogs,17,2649,Toledo Rockets,41,2649,Toledo Rockets,344,Mississippi State Bulldogs
+2,2024,3,2024-09-14 23:30:00+00:00,26,UCLA Bruins,13,84,Indiana Hoosiers,42,84,Indiana Hoosiers,26,UCLA Bruins
+2,2024,3,2024-09-14 23:30:00+00:00,239,Baylor Bears,31,2005,Air Force Falcons,3,239,Baylor Bears,2005,Air Force Falcons
+2,2024,3,2024-09-14 23:30:00+00:00,36,Colorado State Rams,9,38,Colorado Buffaloes,28,38,Colorado Buffaloes,36,Colorado State Rams
+2,2024,3,2024-09-14 23:30:00+00:00,2628,TCU Horned Frogs,34,2116,UCF Knights,35,2116,UCF Knights,2628,TCU Horned Frogs
+2,2024,3,2024-09-14 23:30:00+00:00,77,Northwestern Wildcats,31,2197,Eastern Illinois Panthers,7,77,Northwestern Wildcats,2197,Eastern Illinois Panthers
+2,2024,3,2024-09-14 23:42:00+00:00,2226,Florida Atlantic Owls,38,2229,Florida International Panthers,20,2226,Florida Atlantic Owls,2229,Florida International Panthers
+2,2024,3,2024-09-15 00:00:00+00:00,258,Virginia Cavaliers,13,120,Maryland Terrapins,27,120,Maryland Terrapins,258,Virginia Cavaliers
+2,2024,3,2024-09-15 00:00:00+00:00,248,Houston Cougars,33,242,Rice Owls,7,248,Houston Cougars,242,Rice Owls
+2,2024,3,2024-09-15 01:00:00+00:00,2751,Wyoming Cowboys,14,252,BYU Cougars,34,252,BYU Cougars,2751,Wyoming Cowboys
+2,2024,3,2024-09-15 02:30:00+00:00,25,California Golden Bears,31,21,San Diego State Aztecs,10,25,California Golden Bears,21,San Diego State Aztecs
+2,2024,3,2024-09-15 02:30:00+00:00,278,Fresno State Bulldogs,48,166,New Mexico State Aggies,0,278,Fresno State Bulldogs,166,New Mexico State Aggies
+2,2024,4,2024-09-19 23:30:00+00:00,2026,App State Mountaineers,14,6,South Alabama Jaguars,48,6,South Alabama Jaguars,2026,App State Mountaineers
+2,2024,4,2024-09-21 00:00:00+00:00,158,Nebraska Cornhuskers,24,356,Illinois Fighting Illini,31,356,Illinois Fighting Illini,158,Nebraska Cornhuskers
+2,2024,4,2024-09-20 23:30:00+00:00,183,Syracuse Orange,24,24,Stanford Cardinal,26,24,Stanford Cardinal,183,Syracuse Orange
+2,2024,4,2024-09-21 02:00:00+00:00,265,Washington State Cougars,54,23,San José State Spartans,52,265,Washington State Cougars,23,San José State Spartans
+2,2024,4,2024-09-22 00:00:00+00:00,251,Texas Longhorns,51,2433,UL Monroe Warhawks,3,251,Texas Longhorns,2433,UL Monroe Warhawks
+2,2024,4,2024-09-21 16:00:00+00:00,194,Ohio State Buckeyes,49,276,Marshall Thundering Herd,14,194,Ohio State Buckeyes,276,Marshall Thundering Herd
+2,2024,4,2024-09-21 23:45:00+00:00,145,Ole Miss Rebels,52,290,Georgia Southern Eagles,13,145,Ole Miss Rebels,290,Georgia Southern Eagles
+2,2024,4,2024-09-21 23:30:00+00:00,201,Oklahoma Sooners,15,2633,Tennessee Volunteers,25,2633,Tennessee Volunteers,201,Oklahoma Sooners
+2,2024,4,2024-09-21 20:15:00+00:00,142,Missouri Tigers,30,238,Vanderbilt Commodores,27,142,Missouri Tigers,238,Vanderbilt Commodores
+2,2024,4,2024-09-21 23:00:00+00:00,58,South Florida Bulls,15,2390,Miami Hurricanes,50,2390,Miami Hurricanes,58,South Florida Bulls
+2,2024,4,2024-09-21 19:30:00+00:00,213,Penn State Nittany Lions,56,2309,Kent State Golden Flashes,0,213,Penn State Nittany Lions,2309,Kent State Golden Flashes
+2,2024,4,2024-09-21 19:30:00+00:00,130,Michigan Wolverines,27,30,USC Trojans,24,130,Michigan Wolverines,30,USC Trojans
+2,2024,4,2024-09-21 20:00:00+00:00,197,Oklahoma State Cowboys,19,254,Utah Utes,22,254,Utah Utes,197,Oklahoma State Cowboys
+2,2024,4,2024-09-22 02:30:00+00:00,252,BYU Cougars,38,2306,Kansas State Wildcats,9,252,BYU Cougars,2306,Kansas State Wildcats
+2,2024,4,2024-09-21 19:30:00+00:00,99,LSU Tigers,34,26,UCLA Bruins,17,99,LSU Tigers,26,UCLA Bruins
+2,2024,4,2024-09-21 19:30:00+00:00,87,Notre Dame Fighting Irish,28,193,Miami (OH) RedHawks,3,87,Notre Dame Fighting Irish,193,Miami (OH) RedHawks
+2,2024,4,2024-09-21 19:30:00+00:00,97,Louisville Cardinals,31,59,Georgia Tech Yellow Jackets,19,97,Louisville Cardinals,59,Georgia Tech Yellow Jackets
+2,2024,4,2024-09-21 18:00:00+00:00,66,Iowa State Cyclones,52,2032,Arkansas State Red Wolves,7,66,Iowa State Cyclones,2032,Arkansas State Red Wolves
+2,2024,4,2024-09-21 16:00:00+00:00,228,Clemson Tigers,59,152,NC State Wolfpack,35,228,Clemson Tigers,152,NC State Wolfpack
+2,2024,4,2024-09-21 19:30:00+00:00,2459,Northern Illinois Huskies,20,2084,Buffalo Bulls,23,2084,Buffalo Bulls,2459,Northern Illinois Huskies
+2,2024,4,2024-09-21 23:30:00+00:00,245,Texas A&M Aggies,26,189,Bowling Green Falcons,20,245,Texas A&M Aggies,189,Bowling Green Falcons
+2,2024,4,2024-09-21 16:00:00+00:00,344,Mississippi State Bulldogs,28,57,Florida Gators,45,57,Florida Gators,344,Mississippi State Bulldogs
+2,2024,4,2024-09-21 16:00:00+00:00,84,Indiana Hoosiers,52,2429,Charlotte 49ers,14,84,Indiana Hoosiers,2429,Charlotte 49ers
+2,2024,4,2024-09-21 16:00:00+00:00,120,Maryland Terrapins,38,222,Villanova Wildcats,20,120,Maryland Terrapins,222,Villanova Wildcats
+2,2024,4,2024-09-21 16:00:00+00:00,153,North Carolina Tar Heels,50,256,James Madison Dukes,70,256,James Madison Dukes,153,North Carolina Tar Heels
+2,2024,4,2024-09-21 16:00:00+00:00,2132,Cincinnati Bearcats,34,248,Houston Cougars,0,2132,Cincinnati Bearcats,248,Houston Cougars
+2,2024,4,2024-09-21 16:00:00+00:00,277,West Virginia Mountaineers,32,2305,Kansas Jayhawks,28,277,West Virginia Mountaineers,2305,Kansas Jayhawks
+2,2024,4,2024-09-21 16:00:00+00:00,309,Louisiana Ragin' Cajuns,33,2655,Tulane Green Wave,41,2655,Tulane Green Wave,309,Louisiana Ragin' Cajuns
+2,2024,4,2024-09-21 16:00:00+00:00,349,Army Black Knights,37,242,Rice Owls,14,349,Army Black Knights,242,Rice Owls
+2,2024,4,2024-09-21 16:45:00+00:00,96,Kentucky Wildcats,41,195,Ohio Bobcats,6,96,Kentucky Wildcats,195,Ohio Bobcats
+2,2024,4,2024-09-21 17:00:00+00:00,2117,Central Michigan Chippewas,37,2050,Ball State Cardinals,34,2117,Central Michigan Chippewas,2050,Ball State Cardinals
+2,2024,4,2024-09-21 18:00:00+00:00,324,Coastal Carolina Chanticleers,24,258,Virginia Cavaliers,43,258,Virginia Cavaliers,324,Coastal Carolina Chanticleers
+2,2024,4,2024-09-21 18:00:00+00:00,218,Temple Owls,45,328,Utah State Aggies,29,218,Temple Owls,328,Utah State Aggies
+2,2024,4,2024-09-21 18:00:00+00:00,2199,Eastern Michigan Eagles,36,2598,St. Francis (PA) Red Flash,0,2199,Eastern Michigan Eagles,2598,St. Francis (PA) Red Flash
+2,2024,4,2024-09-21 19:00:00+00:00,55,Jacksonville State Gamecocks,44,2572,Southern Miss Golden Eagles,7,55,Jacksonville State Gamecocks,2572,Southern Miss Golden Eagles
+2,2024,4,2024-09-21 19:00:00+00:00,2440,Nevada Wolf Pack,49,331,Eastern Washington Eagles,16,2440,Nevada Wolf Pack,331,Eastern Washington Eagles
+2,2024,4,2024-09-21 19:30:00+00:00,2,Auburn Tigers,14,8,Arkansas Razorbacks,24,8,Arkansas Razorbacks,2,Auburn Tigers
+2,2024,4,2024-09-21 19:30:00+00:00,259,Virginia Tech Hokies,23,164,Rutgers Scarlet Knights,26,164,Rutgers Scarlet Knights,259,Virginia Tech Hokies
+2,2024,4,2024-09-21 19:30:00+00:00,113,Massachusetts Minutemen,35,2115,Central Connecticut Blue Devils,31,113,Massachusetts Minutemen,2115,Central Connecticut Blue Devils
+2,2024,4,2024-09-21 19:30:00+00:00,221,Pittsburgh Panthers,73,2754,Youngstown State Penguins,17,221,Pittsburgh Panthers,2754,Youngstown State Penguins
+2,2024,4,2024-09-21 19:30:00+00:00,2641,Texas Tech Red Raiders,30,9,Arizona State Sun Devils,22,2641,Texas Tech Red Raiders,9,Arizona State Sun Devils
+2,2024,4,2024-09-21 19:30:00+00:00,2426,Navy Midshipmen,56,235,Memphis Tigers,44,2426,Navy Midshipmen,235,Memphis Tigers
+2,2024,4,2024-09-21 19:30:00+00:00,2636,UTSA Roadrunners,45,2277,Houston Christian Huskies,7,2636,UTSA Roadrunners,2277,Houston Christian Huskies
+2,2024,4,2024-09-21 20:00:00+00:00,2393,Middle Tennessee Blue Raiders,17,150,Duke Blue Devils,45,150,Duke Blue Devils,2393,Middle Tennessee Blue Raiders
+2,2024,4,2024-09-21 21:00:00+00:00,2567,SMU Mustangs,66,2628,TCU Horned Frogs,42,2567,SMU Mustangs,2628,TCU Horned Frogs
+2,2024,4,2024-09-21 21:00:00+00:00,36,Colorado State Rams,27,2638,UTEP Miners,17,36,Colorado State Rams,2638,UTEP Miners
+2,2024,4,2024-09-21 22:00:00+00:00,2229,Florida International Panthers,42,2405,Monmouth Hawks,45,2405,Monmouth Hawks,2229,Florida International Panthers
+2,2024,4,2024-09-21 22:00:00+00:00,2335,Liberty Flames,35,151,East Carolina Pirates,24,2335,Liberty Flames,151,East Carolina Pirates
+2,2024,4,2024-09-21 23:00:00+00:00,264,Washington Huskies,24,77,Northwestern Wildcats,5,264,Washington Huskies,77,Northwestern Wildcats
+2,2024,4,2024-09-21 23:00:00+00:00,41,UConn Huskies,48,2226,Florida Atlantic Owls,14,41,UConn Huskies,2226,Florida Atlantic Owls
+2,2024,4,2024-09-21 23:00:00+00:00,52,Florida State Seminoles,14,25,California Golden Bears,9,52,Florida State Seminoles,25,California Golden Bears
+2,2024,4,2024-09-21 23:00:00+00:00,2653,Troy Trojans,34,50,Florida A&M Rattlers,12,2653,Troy Trojans,50,Florida A&M Rattlers
+2,2024,4,2024-09-21 23:00:00+00:00,2348,Louisiana Tech Bulldogs,20,202,Tulsa Golden Hurricane,23,202,Tulsa Golden Hurricane,2348,Louisiana Tech Bulldogs
+2,2024,4,2024-09-21 23:00:00+00:00,2534,Sam Houston Bearkats,31,166,New Mexico State Aggies,11,2534,Sam Houston Bearkats,166,New Mexico State Aggies
+2,2024,4,2024-09-21 23:00:00+00:00,98,Western Kentucky Hilltoppers,26,2649,Toledo Rockets,21,98,Western Kentucky Hilltoppers,2649,Toledo Rockets
+2,2024,4,2024-09-21 23:00:00+00:00,249,North Texas Mean Green,44,2751,Wyoming Cowboys,17,249,North Texas Mean Green,2751,Wyoming Cowboys
+2,2024,4,2024-09-21 23:30:00+00:00,2579,South Carolina Gamecocks,50,2006,Akron Zips,7,2579,South Carolina Gamecocks,2006,Akron Zips
+2,2024,4,2024-09-21 23:30:00+00:00,135,Minnesota Golden Gophers,14,2294,Iowa Hawkeyes,31,2294,Iowa Hawkeyes,135,Minnesota Golden Gophers
+2,2024,4,2024-09-22 00:00:00+00:00,103,Boston College Eagles,23,127,Michigan State Spartans,19,103,Boston College Eagles,127,Michigan State Spartans
+2,2024,4,2024-09-22 00:00:00+00:00,38,Colorado Buffaloes,38,239,Baylor Bears,31,38,Colorado Buffaloes,239,Baylor Bears
+2,2024,4,2024-09-22 00:30:00+00:00,167,New Mexico Lobos,21,278,Fresno State Bulldogs,38,278,Fresno State Bulldogs,167,New Mexico Lobos
+2,2024,4,2024-09-22 00:30:00+00:00,204,Oregon State Beavers,38,2509,Purdue Boilermakers,21,204,Oregon State Beavers,2509,Purdue Boilermakers
+2,2024,4,2024-09-22 01:45:00+00:00,68,Boise State Broncos,56,2502,Portland State Vikings,14,68,Boise State Broncos,2502,Portland State Vikings
+2,2024,4,2024-09-22 03:59:00+00:00,62,Hawai'i Rainbow Warriors,36,2460,Northern Iowa Panthers,7,62,Hawai'i Rainbow Warriors,2460,Northern Iowa Panthers
+2,2024,5,2024-09-26 23:30:00+00:00,218,Temple Owls,14,349,Army Black Knights,42,349,Army Black Knights,218,Temple Owls
+2,2024,5,2024-09-27 23:30:00+00:00,2390,Miami Hurricanes,38,259,Virginia Tech Hokies,34,2390,Miami Hurricanes,259,Virginia Tech Hokies
+2,2024,5,2024-09-28 00:00:00+00:00,164,Rutgers Scarlet Knights,21,264,Washington Huskies,18,164,Rutgers Scarlet Knights,264,Washington Huskies
+2,2024,5,2024-09-28 20:15:00+00:00,251,Texas Longhorns,35,344,Mississippi State Bulldogs,13,251,Texas Longhorns,344,Mississippi State Bulldogs
+2,2024,5,2024-09-28 23:30:00+00:00,333,Alabama Crimson Tide,41,61,Georgia Bulldogs,34,333,Alabama Crimson Tide,61,Georgia Bulldogs
+2,2024,5,2024-09-28 23:30:00+00:00,127,Michigan State Spartans,7,194,Ohio State Buckeyes,38,194,Ohio State Buckeyes,127,Michigan State Spartans
+2,2024,5,2024-09-28 16:00:00+00:00,145,Ole Miss Rebels,17,96,Kentucky Wildcats,20,96,Kentucky Wildcats,145,Ole Miss Rebels
+2,2024,5,2024-09-29 03:00:00+00:00,26,UCLA Bruins,13,2483,Oregon Ducks,34,2483,Oregon Ducks,26,UCLA Bruins
+2,2024,5,2024-09-28 23:30:00+00:00,213,Penn State Nittany Lions,21,356,Illinois Fighting Illini,7,213,Penn State Nittany Lions,356,Illinois Fighting Illini
+2,2024,5,2024-09-29 02:15:00+00:00,254,Utah Utes,10,12,Arizona Wildcats,23,12,Arizona Wildcats,254,Utah Utes
+2,2024,5,2024-09-28 16:00:00+00:00,130,Michigan Wolverines,27,135,Minnesota Golden Gophers,24,130,Michigan Wolverines,135,Minnesota Golden Gophers
+2,2024,5,2024-09-28 19:30:00+00:00,30,USC Trojans,38,275,Wisconsin Badgers,21,30,USC Trojans,275,Wisconsin Badgers
+2,2024,5,2024-09-28 23:45:00+00:00,99,LSU Tigers,42,6,South Alabama Jaguars,10,99,LSU Tigers,6,South Alabama Jaguars
+2,2024,5,2024-09-28 19:30:00+00:00,87,Notre Dame Fighting Irish,31,97,Louisville Cardinals,24,87,Notre Dame Fighting Irish,97,Louisville Cardinals
+2,2024,5,2024-09-28 23:00:00+00:00,228,Clemson Tigers,40,24,Stanford Cardinal,14,228,Clemson Tigers,24,Stanford Cardinal
+2,2024,5,2024-09-28 23:00:00+00:00,248,Houston Cougars,0,66,Iowa State Cyclones,20,66,Iowa State Cyclones,248,Houston Cougars
+2,2024,5,2024-09-28 16:00:00+00:00,2306,Kansas State Wildcats,42,197,Oklahoma State Cowboys,20,2306,Kansas State Wildcats,197,Oklahoma State Cowboys
+2,2024,5,2024-09-28 19:30:00+00:00,2,Auburn Tigers,21,201,Oklahoma Sooners,27,201,Oklahoma Sooners,2,Auburn Tigers
+2,2024,5,2024-09-28 16:00:00+00:00,239,Baylor Bears,28,252,BYU Cougars,34,252,BYU Cougars,239,Baylor Bears
+2,2024,5,2024-09-28 19:30:00+00:00,245,Texas A&M Aggies,21,8,Arkansas Razorbacks,17,245,Texas A&M Aggies,8,Arkansas Razorbacks
+2,2024,5,2024-09-29 02:00:00+00:00,68,Boise State Broncos,45,265,Washington State Cougars,24,68,Boise State Broncos,265,Washington State Cougars
+2,2024,5,2024-09-28 16:00:00+00:00,84,Indiana Hoosiers,42,120,Maryland Terrapins,28,84,Indiana Hoosiers,120,Maryland Terrapins
+2,2024,5,2024-09-28 16:00:00+00:00,2509,Purdue Boilermakers,10,158,Nebraska Cornhuskers,28,158,Nebraska Cornhuskers,2509,Purdue Boilermakers
+2,2024,5,2024-09-28 16:00:00+00:00,41,UConn Huskies,47,2084,Buffalo Bulls,3,41,UConn Huskies,2084,Buffalo Bulls
+2,2024,5,2024-09-28 16:00:00+00:00,103,Boston College Eagles,21,98,Western Kentucky Hilltoppers,20,103,Boston College Eagles,98,Western Kentucky Hilltoppers
+2,2024,5,2024-09-28 16:00:00+00:00,152,NC State Wolfpack,24,2459,Northern Illinois Huskies,17,152,NC State Wolfpack,2459,Northern Illinois Huskies
+2,2024,5,2024-09-28 16:00:00+00:00,183,Syracuse Orange,42,107,Holy Cross Crusaders,14,183,Syracuse Orange,107,Holy Cross Crusaders
+2,2024,5,2024-09-28 16:00:00+00:00,5,UAB Blazers,18,2426,Navy Midshipmen,41,2426,Navy Midshipmen,5,UAB Blazers
+2,2024,5,2024-09-28 16:00:00+00:00,2655,Tulane Green Wave,45,58,South Florida Bulls,10,2655,Tulane Green Wave,58,South Florida Bulls
+2,2024,5,2024-09-28 17:30:00+00:00,256,James Madison Dukes,63,2050,Ball State Cardinals,7,256,James Madison Dukes,2050,Ball State Cardinals
+2,2024,5,2024-09-28 19:00:00+00:00,2534,Sam Houston Bearkats,40,326,Texas State Bobcats,39,2534,Sam Houston Bearkats,326,Texas State Bobcats
+2,2024,5,2024-09-28 19:30:00+00:00,193,Miami (OH) RedHawks,23,113,Massachusetts Minutemen,20,193,Miami (OH) RedHawks,113,Massachusetts Minutemen
+2,2024,5,2024-09-28 19:30:00+00:00,154,Wake Forest Demon Deacons,38,309,Louisiana Ragin' Cajuns,41,309,Louisiana Ragin' Cajuns,154,Wake Forest Demon Deacons
+2,2024,5,2024-09-28 19:30:00+00:00,2305,Kansas Jayhawks,27,2628,TCU Horned Frogs,38,2628,TCU Horned Frogs,2305,Kansas Jayhawks
+2,2024,5,2024-09-28 19:30:00+00:00,2439,UNLV Rebels,59,278,Fresno State Bulldogs,14,2439,UNLV Rebels,278,Fresno State Bulldogs
+2,2024,5,2024-09-28 19:30:00+00:00,2117,Central Michigan Chippewas,22,21,San Diego State Aztecs,21,2117,Central Michigan Chippewas,21,San Diego State Aztecs
+2,2024,5,2024-09-28 19:30:00+00:00,2247,Georgia State Panthers,21,290,Georgia Southern Eagles,38,290,Georgia Southern Eagles,2247,Georgia State Panthers
+2,2024,5,2024-09-28 19:30:00+00:00,276,Marshall Thundering Herd,27,2711,Western Michigan Broncos,20,276,Marshall Thundering Herd,2711,Western Michigan Broncos
+2,2024,5,2024-09-28 19:30:00+00:00,195,Ohio Bobcats,30,2006,Akron Zips,10,195,Ohio Bobcats,2006,Akron Zips
+2,2024,5,2024-09-28 19:30:00+00:00,2309,Kent State Golden Flashes,33,2199,Eastern Michigan Eagles,52,2199,Eastern Michigan Eagles,2309,Kent State Golden Flashes
+2,2024,5,2024-09-28 20:00:00+00:00,150,Duke Blue Devils,21,153,North Carolina Tar Heels,20,150,Duke Blue Devils,153,North Carolina Tar Heels
+2,2024,5,2024-09-28 20:00:00+00:00,151,East Carolina Pirates,30,2636,UTSA Roadrunners,20,151,East Carolina Pirates,2636,UTSA Roadrunners
+2,2024,5,2024-09-28 20:20:00+00:00,2116,UCF Knights,21,38,Colorado Buffaloes,48,38,Colorado Buffaloes,2116,UCF Knights
+2,2024,5,2024-09-28 21:00:00+00:00,189,Bowling Green Falcons,27,295,Old Dominion Monarchs,30,295,Old Dominion Monarchs,189,Bowling Green Falcons
+2,2024,5,2024-09-28 22:00:00+00:00,2229,Florida International Panthers,17,2348,Louisiana Tech Bulldogs,10,2229,Florida International Panthers,2348,Louisiana Tech Bulldogs
+2,2024,5,2024-09-28 22:00:00+00:00,338,Kennesaw State Owls,13,2630,UT Martin Skyhawks,24,2630,UT Martin Skyhawks,338,Kennesaw State Owls
+2,2024,5,2024-09-28 22:00:00+00:00,2226,Florida Atlantic Owls,41,2681,Wagner Seahawks,10,2226,Florida Atlantic Owls,2681,Wagner Seahawks
+2,2024,5,2024-09-28 23:00:00+00:00,2653,Troy Trojans,9,2433,UL Monroe Warhawks,13,2433,UL Monroe Warhawks,2653,Troy Trojans
+2,2024,5,2024-09-28 23:00:00+00:00,242,Rice Owls,20,2429,Charlotte 49ers,21,2429,Charlotte 49ers,242,Rice Owls
+2,2024,5,2024-09-28 23:00:00+00:00,249,North Texas Mean Green,52,202,Tulsa Golden Hurricane,20,249,North Texas Mean Green,202,Tulsa Golden Hurricane
+2,2024,5,2024-09-28 23:30:00+00:00,235,Memphis Tigers,24,2393,Middle Tennessee Blue Raiders,7,235,Memphis Tigers,2393,Middle Tennessee Blue Raiders
+2,2024,5,2024-09-29 00:00:00+00:00,2567,SMU Mustangs,42,52,Florida State Seminoles,16,2567,SMU Mustangs,52,Florida State Seminoles
+2,2024,5,2024-09-29 00:00:00+00:00,2641,Texas Tech Red Raiders,44,2132,Cincinnati Bearcats,41,2641,Texas Tech Red Raiders,2132,Cincinnati Bearcats
+2,2024,5,2024-09-29 00:00:00+00:00,166,New Mexico State Aggies,40,167,New Mexico Lobos,50,167,New Mexico Lobos,166,New Mexico State Aggies
+2,2024,5,2024-09-29 00:00:00+00:00,2751,Wyoming Cowboys,31,2005,Air Force Falcons,19,2751,Wyoming Cowboys,2005,Air Force Falcons
+2,2024,6,2024-10-03 23:00:00+00:00,2653,Troy Trojans,17,326,Texas State Bobcats,38,326,Texas State Bobcats,2653,Troy Trojans
+2,2024,6,2024-10-04 01:00:00+00:00,2638,UTEP Miners,21,2534,Sam Houston Bearkats,41,2534,Sam Houston Bearkats,2638,UTEP Miners
+2,2024,6,2024-10-05 01:00:00+00:00,2483,Oregon Ducks,31,127,Michigan State Spartans,10,2483,Oregon Ducks,127,Michigan State Spartans
+2,2024,6,2024-10-05 01:00:00+00:00,2439,UNLV Rebels,41,183,Syracuse Orange,44,183,Syracuse Orange,2439,UNLV Rebels
+2,2024,6,2024-10-04 23:00:00+00:00,338,Kennesaw State Owls,24,55,Jacksonville State Gamecocks,63,55,Jacksonville State Gamecocks,338,Kennesaw State Owls
+2,2024,6,2024-10-04 23:30:00+00:00,2628,TCU Horned Frogs,19,248,Houston Cougars,30,248,Houston Cougars,2628,TCU Horned Frogs
+2,2024,6,2024-10-05 20:15:00+00:00,238,Vanderbilt Commodores,40,333,Alabama Crimson Tide,35,238,Vanderbilt Commodores,333,Alabama Crimson Tide
+2,2024,6,2024-10-05 19:30:00+00:00,194,Ohio State Buckeyes,35,2294,Iowa Hawkeyes,7,194,Ohio State Buckeyes,2294,Iowa Hawkeyes
+2,2024,6,2024-10-05 23:30:00+00:00,8,Arkansas Razorbacks,19,2633,Tennessee Volunteers,14,8,Arkansas Razorbacks,2633,Tennessee Volunteers
+2,2024,6,2024-10-05 19:30:00+00:00,61,Georgia Bulldogs,31,2,Auburn Tigers,13,61,Georgia Bulldogs,2,Auburn Tigers
+2,2024,6,2024-10-05 16:00:00+00:00,213,Penn State Nittany Lions,27,26,UCLA Bruins,11,213,Penn State Nittany Lions,26,UCLA Bruins
+2,2024,6,2024-10-06 02:30:00+00:00,25,California Golden Bears,38,2390,Miami Hurricanes,39,2390,Miami Hurricanes,25,California Golden Bears
+2,2024,6,2024-10-05 16:00:00+00:00,245,Texas A&M Aggies,41,142,Missouri Tigers,10,245,Texas A&M Aggies,142,Missouri Tigers
+2,2024,6,2024-10-05 23:30:00+00:00,264,Washington Huskies,27,130,Michigan Wolverines,17,264,Washington Huskies,130,Michigan Wolverines
+2,2024,6,2024-10-05 23:30:00+00:00,135,Minnesota Golden Gophers,24,30,USC Trojans,17,135,Minnesota Golden Gophers,30,USC Trojans
+2,2024,6,2024-10-05 19:30:00+00:00,2579,South Carolina Gamecocks,3,145,Ole Miss Rebels,27,145,Ole Miss Rebels,2579,South Carolina Gamecocks
+2,2024,6,2024-10-05 23:00:00+00:00,52,Florida State Seminoles,13,228,Clemson Tigers,29,228,Clemson Tigers,52,Florida State Seminoles
+2,2024,6,2024-10-05 23:30:00+00:00,66,Iowa State Cyclones,43,239,Baylor Bears,21,66,Iowa State Cyclones,239,Baylor Bears
+2,2024,6,2024-10-05 23:00:00+00:00,68,Boise State Broncos,62,328,Utah State Aggies,30,68,Boise State Broncos,328,Utah State Aggies
+2,2024,6,2024-10-05 16:00:00+00:00,97,Louisville Cardinals,27,2567,SMU Mustangs,34,2567,SMU Mustangs,97,Louisville Cardinals
+2,2024,6,2024-10-05 19:30:00+00:00,77,Northwestern Wildcats,24,84,Indiana Hoosiers,41,84,Indiana Hoosiers,77,Northwestern Wildcats
+2,2024,6,2024-10-05 16:00:00+00:00,275,Wisconsin Badgers,52,2509,Purdue Boilermakers,6,275,Wisconsin Badgers,2509,Purdue Boilermakers
+2,2024,6,2024-10-05 16:00:00+00:00,2459,Northern Illinois Huskies,34,113,Massachusetts Minutemen,20,2459,Northern Illinois Huskies,113,Massachusetts Minutemen
+2,2024,6,2024-10-05 16:00:00+00:00,258,Virginia Cavaliers,24,103,Boston College Eagles,14,258,Virginia Cavaliers,103,Boston College Eagles
+2,2024,6,2024-10-05 16:00:00+00:00,153,North Carolina Tar Heels,24,221,Pittsburgh Panthers,34,221,Pittsburgh Panthers,153,North Carolina Tar Heels
+2,2024,6,2024-10-05 16:00:00+00:00,152,NC State Wolfpack,30,154,Wake Forest Demon Deacons,34,154,Wake Forest Demon Deacons,152,NC State Wolfpack
+2,2024,6,2024-10-05 16:00:00+00:00,2005,Air Force Falcons,7,2426,Navy Midshipmen,34,2426,Navy Midshipmen,2005,Air Force Falcons
+2,2024,6,2024-10-05 16:00:00+00:00,202,Tulsa Golden Hurricane,7,349,Army Black Knights,49,349,Army Black Knights,202,Tulsa Golden Hurricane
+2,2024,6,2024-10-05 17:00:00+00:00,5,UAB Blazers,20,2655,Tulane Green Wave,71,2655,Tulane Green Wave,5,UAB Blazers
+2,2024,6,2024-10-05 18:00:00+00:00,2050,Ball State Cardinals,42,2711,Western Michigan Broncos,45,2711,Western Michigan Broncos,2050,Ball State Cardinals
+2,2024,6,2024-10-05 19:30:00+00:00,41,UConn Huskies,29,218,Temple Owls,20,41,UConn Huskies,218,Temple Owls
+2,2024,6,2024-10-05 19:30:00+00:00,24,Stanford Cardinal,7,259,Virginia Tech Hokies,31,259,Virginia Tech Hokies,24,Stanford Cardinal
+2,2024,6,2024-10-05 19:30:00+00:00,276,Marshall Thundering Herd,52,2026,App State Mountaineers,37,276,Marshall Thundering Herd,2026,App State Mountaineers
+2,2024,6,2024-10-05 19:30:00+00:00,2649,Toledo Rockets,30,193,Miami (OH) RedHawks,20,2649,Toledo Rockets,193,Miami (OH) RedHawks
+2,2024,6,2024-10-05 19:30:00+00:00,2006,Akron Zips,20,189,Bowling Green Falcons,27,189,Bowling Green Falcons,2006,Akron Zips
+2,2024,6,2024-10-05 19:30:00+00:00,2429,Charlotte 49ers,55,151,East Carolina Pirates,24,2429,Charlotte 49ers,151,East Carolina Pirates
+2,2024,6,2024-10-05 20:00:00+00:00,158,Nebraska Cornhuskers,14,164,Rutgers Scarlet Knights,7,158,Nebraska Cornhuskers,164,Rutgers Scarlet Knights
+2,2024,6,2024-10-05 20:00:00+00:00,197,Oklahoma State Cowboys,14,277,West Virginia Mountaineers,38,277,West Virginia Mountaineers,197,Oklahoma State Cowboys
+2,2024,6,2024-10-05 22:30:00+00:00,204,Oregon State Beavers,39,36,Colorado State Rams,31,204,Oregon State Beavers,36,Colorado State Rams
+2,2024,6,2024-10-05 23:00:00+00:00,324,Coastal Carolina Chanticleers,45,295,Old Dominion Monarchs,37,324,Coastal Carolina Chanticleers,295,Old Dominion Monarchs
+2,2024,6,2024-10-05 23:00:00+00:00,2032,Arkansas State Red Wolves,18,6,South Alabama Jaguars,16,2032,Arkansas State Red Wolves,6,South Alabama Jaguars
+2,2024,6,2024-10-05 23:00:00+00:00,2433,UL Monroe Warhawks,21,256,James Madison Dukes,19,2433,UL Monroe Warhawks,256,James Madison Dukes
+2,2024,6,2024-10-05 23:00:00+00:00,2572,Southern Miss Golden Eagles,13,309,Louisiana Ragin' Cajuns,23,309,Louisiana Ragin' Cajuns,2572,Southern Miss Golden Eagles
+2,2024,6,2024-10-05 23:30:00+00:00,23,San José State Spartans,35,2440,Nevada Wolf Pack,31,23,San José State Spartans,2440,Nevada Wolf Pack
+2,2024,6,2024-10-05 23:45:00+00:00,57,Florida Gators,24,2116,UCF Knights,13,57,Florida Gators,2116,UCF Knights
+2,2024,6,2024-10-06 00:00:00+00:00,59,Georgia Tech Yellow Jackets,24,150,Duke Blue Devils,14,59,Georgia Tech Yellow Jackets,150,Duke Blue Devils
+2,2024,6,2024-10-06 00:00:00+00:00,9,Arizona State Sun Devils,35,2305,Kansas Jayhawks,31,9,Arizona State Sun Devils,2305,Kansas Jayhawks
+2,2024,6,2024-10-06 00:00:00+00:00,21,San Diego State Aztecs,27,62,Hawai'i Rainbow Warriors,24,21,San Diego State Aztecs,62,Hawai'i Rainbow Warriors
+2,2024,6,2024-10-06 03:00:00+00:00,12,Arizona Wildcats,22,2641,Texas Tech Red Raiders,28,2641,Texas Tech Red Raiders,12,Arizona Wildcats
+2,2024,7,2024-10-08 23:00:00+00:00,2335,Liberty Flames,31,2229,Florida International Panthers,24,2335,Liberty Flames,2229,Florida International Panthers
+2,2024,7,2024-10-09 23:30:00+00:00,55,Jacksonville State Gamecocks,54,166,New Mexico State Aggies,13,55,Jacksonville State Gamecocks,166,New Mexico State Aggies
+2,2024,7,2024-10-10 23:30:00+00:00,256,James Madison Dukes,39,324,Coastal Carolina Chanticleers,7,256,James Madison Dukes,324,Coastal Carolina Chanticleers
+2,2024,7,2024-10-11 00:00:00+00:00,2348,Louisiana Tech Bulldogs,48,2393,Middle Tennessee Blue Raiders,21,2348,Louisiana Tech Bulldogs,2393,Middle Tennessee Blue Raiders
+2,2024,7,2024-10-11 00:00:00+00:00,98,Western Kentucky Hilltoppers,44,2638,UTEP Miners,17,98,Western Kentucky Hilltoppers,2638,UTEP Miners
+2,2024,7,2024-10-12 02:30:00+00:00,9,Arizona State Sun Devils,27,254,Utah Utes,19,9,Arizona State Sun Devils,254,Utah Utes
+2,2024,7,2024-10-12 00:00:00+00:00,120,Maryland Terrapins,10,77,Northwestern Wildcats,37,77,Northwestern Wildcats,120,Maryland Terrapins
+2,2024,7,2024-10-12 01:00:00+00:00,328,Utah State Aggies,34,2439,UNLV Rebels,50,2439,UNLV Rebels,328,Utah State Aggies
+2,2024,7,2024-10-12 19:30:00+00:00,201,Oklahoma Sooners,3,251,Texas Longhorns,34,251,Texas Longhorns,201,Oklahoma Sooners
+2,2024,7,2024-10-12 23:30:00+00:00,2483,Oregon Ducks,32,194,Ohio State Buckeyes,31,2483,Oregon Ducks,194,Ohio State Buckeyes
+2,2024,7,2024-10-12 19:30:00+00:00,30,USC Trojans,30,213,Penn State Nittany Lions,33,213,Penn State Nittany Lions,30,USC Trojans
+2,2024,7,2024-10-12 20:15:00+00:00,61,Georgia Bulldogs,41,344,Mississippi State Bulldogs,31,61,Georgia Bulldogs,344,Mississippi State Bulldogs
+2,2024,7,2024-10-12 16:00:00+00:00,333,Alabama Crimson Tide,27,2579,South Carolina Gamecocks,25,333,Alabama Crimson Tide,2579,South Carolina Gamecocks
+2,2024,7,2024-10-12 23:00:00+00:00,2633,Tennessee Volunteers,23,57,Florida Gators,17,2633,Tennessee Volunteers,57,Florida Gators
+2,2024,7,2024-10-12 23:30:00+00:00,99,LSU Tigers,29,145,Ole Miss Rebels,26,99,LSU Tigers,145,Ole Miss Rebels
+2,2024,7,2024-10-12 16:00:00+00:00,154,Wake Forest Demon Deacons,14,228,Clemson Tigers,49,228,Clemson Tigers,154,Wake Forest Demon Deacons
+2,2024,7,2024-10-12 19:30:00+00:00,87,Notre Dame Fighting Irish,49,24,Stanford Cardinal,7,87,Notre Dame Fighting Irish,24,Stanford Cardinal
+2,2024,7,2024-10-13 00:00:00+00:00,277,West Virginia Mountaineers,16,66,Iowa State Cyclones,28,66,Iowa State Cyclones,277,West Virginia Mountaineers
+2,2024,7,2024-10-12 20:00:00+00:00,252,BYU Cougars,41,12,Arizona Wildcats,19,252,BYU Cougars,12,Arizona Wildcats
+2,2024,7,2024-10-13 03:00:00+00:00,62,Hawai'i Rainbow Warriors,7,68,Boise State Broncos,28,68,Boise State Broncos,62,Hawai'i Rainbow Warriors
+2,2024,7,2024-10-13 02:25:00+00:00,38,Colorado Buffaloes,28,2306,Kansas State Wildcats,31,2306,Kansas State Wildcats,38,Colorado Buffaloes
+2,2024,7,2024-10-12 16:00:00+00:00,113,Massachusetts Minutemen,3,142,Missouri Tigers,45,142,Missouri Tigers,113,Massachusetts Minutemen
+2,2024,7,2024-10-12 19:30:00+00:00,221,Pittsburgh Panthers,17,25,California Golden Bears,15,221,Pittsburgh Panthers,25,California Golden Bears
+2,2024,7,2024-10-12 19:30:00+00:00,356,Illinois Fighting Illini,50,2509,Purdue Boilermakers,49,356,Illinois Fighting Illini,2509,Purdue Boilermakers
+2,2024,7,2024-10-12 16:00:00+00:00,2294,Iowa Hawkeyes,40,264,Washington Huskies,16,2294,Iowa Hawkeyes,264,Washington Huskies
+2,2024,7,2024-10-12 16:00:00+00:00,164,Rutgers Scarlet Knights,7,275,Wisconsin Badgers,42,275,Wisconsin Badgers,164,Rutgers Scarlet Knights
+2,2024,7,2024-10-12 16:00:00+00:00,153,North Carolina Tar Heels,34,59,Georgia Tech Yellow Jackets,41,59,Georgia Tech Yellow Jackets,153,North Carolina Tar Heels
+2,2024,7,2024-10-12 16:00:00+00:00,2309,Kent State Golden Flashes,35,2050,Ball State Cardinals,37,2050,Ball State Cardinals,2309,Kent State Golden Flashes
+2,2024,7,2024-10-12 16:00:00+00:00,2084,Buffalo Bulls,30,2649,Toledo Rockets,15,2084,Buffalo Bulls,2649,Toledo Rockets
+2,2024,7,2024-10-12 16:00:00+00:00,349,Army Black Knights,44,5,UAB Blazers,10,349,Army Black Knights,5,UAB Blazers
+2,2024,7,2024-10-12 18:00:00+00:00,2199,Eastern Michigan Eagles,14,193,Miami (OH) RedHawks,38,193,Miami (OH) RedHawks,2199,Eastern Michigan Eagles
+2,2024,7,2024-10-12 19:30:00+00:00,258,Virginia Cavaliers,20,97,Louisville Cardinals,24,97,Louisville Cardinals,258,Virginia Cavaliers
+2,2024,7,2024-10-12 19:30:00+00:00,2116,UCF Knights,13,2132,Cincinnati Bearcats,19,2132,Cincinnati Bearcats,2116,UCF Knights
+2,2024,7,2024-10-12 19:30:00+00:00,36,Colorado State Rams,31,23,San José State Spartans,24,36,Colorado State Rams,23,San José State Spartans
+2,2024,7,2024-10-12 19:30:00+00:00,2751,Wyoming Cowboys,24,21,San Diego State Aztecs,27,21,San Diego State Aztecs,2751,Wyoming Cowboys
+2,2024,7,2024-10-12 19:30:00+00:00,2247,Georgia State Panthers,14,295,Old Dominion Monarchs,21,295,Old Dominion Monarchs,2247,Georgia State Panthers
+2,2024,7,2024-10-12 19:30:00+00:00,2711,Western Michigan Broncos,34,2006,Akron Zips,24,2711,Western Michigan Broncos,2006,Akron Zips
+2,2024,7,2024-10-12 19:30:00+00:00,189,Bowling Green Falcons,7,2459,Northern Illinois Huskies,17,2459,Northern Illinois Huskies,189,Bowling Green Falcons
+2,2024,7,2024-10-12 19:30:00+00:00,58,South Florida Bulls,3,235,Memphis Tigers,21,235,Memphis Tigers,58,South Florida Bulls
+2,2024,7,2024-10-12 20:00:00+00:00,2117,Central Michigan Chippewas,25,195,Ohio Bobcats,27,195,Ohio Bobcats,2117,Central Michigan Chippewas
+2,2024,7,2024-10-12 21:00:00+00:00,2433,UL Monroe Warhawks,38,2572,Southern Miss Golden Eagles,21,2433,UL Monroe Warhawks,2572,Southern Miss Golden Eagles
+2,2024,7,2024-10-12 23:00:00+00:00,167,New Mexico Lobos,52,2005,Air Force Falcons,37,167,New Mexico Lobos,2005,Air Force Falcons
+2,2024,7,2024-10-12 23:00:00+00:00,278,Fresno State Bulldogs,17,265,Washington State Cougars,25,265,Washington State Cougars,278,Fresno State Bulldogs
+2,2024,7,2024-10-12 23:00:00+00:00,326,Texas State Bobcats,41,2032,Arkansas State Red Wolves,9,326,Texas State Bobcats,2032,Arkansas State Red Wolves
+2,2024,7,2024-10-12 23:00:00+00:00,2226,Florida Atlantic Owls,37,249,North Texas Mean Green,41,249,North Texas Mean Green,2226,Florida Atlantic Owls
+2,2024,7,2024-10-12 23:00:00+00:00,242,Rice Owls,29,2636,UTSA Roadrunners,27,242,Rice Owls,2636,UTSA Roadrunners
+2,2024,7,2024-10-12 23:30:00+00:00,2440,Nevada Wolf Pack,42,204,Oregon State Beavers,37,2440,Nevada Wolf Pack,204,Oregon State Beavers
+2,2024,7,2024-10-12 23:30:00+00:00,309,Louisiana Ragin' Cajuns,34,2026,App State Mountaineers,24,309,Louisiana Ragin' Cajuns,2026,App State Mountaineers
+2,2024,7,2024-10-12 23:55:00+00:00,96,Kentucky Wildcats,13,238,Vanderbilt Commodores,20,238,Vanderbilt Commodores,96,Kentucky Wildcats
+2,2024,7,2024-10-13 00:00:00+00:00,152,NC State Wolfpack,17,183,Syracuse Orange,24,183,Syracuse Orange,152,NC State Wolfpack
+2,2024,7,2024-10-13 00:00:00+00:00,290,Georgia Southern Eagles,24,276,Marshall Thundering Herd,23,290,Georgia Southern Eagles,276,Marshall Thundering Herd
+2,2024,7,2024-10-13 01:00:00+00:00,26,UCLA Bruins,17,135,Minnesota Golden Gophers,21,135,Minnesota Golden Gophers,26,UCLA Bruins
+2,2024,8,2024-10-15 23:30:00+00:00,6,South Alabama Jaguars,25,2653,Troy Trojans,9,6,South Alabama Jaguars,2653,Troy Trojans
+2,2024,8,2024-10-16 00:00:00+00:00,2393,Middle Tennessee Blue Raiders,14,338,Kennesaw State Owls,5,2393,Middle Tennessee Blue Raiders,338,Kennesaw State Owls
+2,2024,8,2024-10-16 01:00:00+00:00,166,New Mexico State Aggies,33,2348,Louisiana Tech Bulldogs,30,166,New Mexico State Aggies,2348,Louisiana Tech Bulldogs
+2,2024,8,2024-10-16 23:00:00+00:00,2534,Sam Houston Bearkats,14,98,Western Kentucky Hilltoppers,31,98,Western Kentucky Hilltoppers,2534,Sam Houston Bearkats
+2,2024,8,2024-10-17 01:00:00+00:00,2638,UTEP Miners,30,2229,Florida International Panthers,21,2638,UTEP Miners,2229,Florida International Panthers
+2,2024,8,2024-10-17 23:00:00+00:00,276,Marshall Thundering Herd,35,2247,Georgia State Panthers,20,276,Marshall Thundering Herd,2247,Georgia State Panthers
+2,2024,8,2024-10-17 23:30:00+00:00,259,Virginia Tech Hokies,42,103,Boston College Eagles,21,259,Virginia Tech Hokies,103,Boston College Eagles
+2,2024,8,2024-10-19 00:00:00+00:00,2509,Purdue Boilermakers,0,2483,Oregon Ducks,35,2483,Oregon Ducks,2509,Purdue Boilermakers
+2,2024,8,2024-10-19 02:15:00+00:00,252,BYU Cougars,38,197,Oklahoma State Cowboys,35,252,BYU Cougars,197,Oklahoma State Cowboys
+2,2024,8,2024-10-18 23:00:00+00:00,150,Duke Blue Devils,23,52,Florida State Seminoles,16,150,Duke Blue Devils,52,Florida State Seminoles
+2,2024,8,2024-10-19 02:30:00+00:00,2440,Nevada Wolf Pack,21,278,Fresno State Bulldogs,24,278,Fresno State Bulldogs,2440,Nevada Wolf Pack
+2,2024,8,2024-10-19 23:49:00+00:00,251,Texas Longhorns,15,61,Georgia Bulldogs,30,61,Georgia Bulldogs,251,Texas Longhorns
+2,2024,8,2024-10-19 16:00:00+00:00,97,Louisville Cardinals,45,2390,Miami Hurricanes,52,2390,Miami Hurricanes,97,Louisville Cardinals
+2,2024,8,2024-10-19 19:30:00+00:00,2633,Tennessee Volunteers,24,333,Alabama Crimson Tide,17,2633,Tennessee Volunteers,333,Alabama Crimson Tide
+2,2024,8,2024-10-19 23:00:00+00:00,8,Arkansas Razorbacks,10,99,LSU Tigers,34,99,LSU Tigers,8,Arkansas Razorbacks
+2,2024,8,2024-10-19 23:30:00+00:00,66,Iowa State Cyclones,38,2116,UCF Knights,35,66,Iowa State Cyclones,2116,UCF Knights
+2,2024,8,2024-10-19 16:00:00+00:00,228,Clemson Tigers,48,258,Virginia Cavaliers,31,228,Clemson Tigers,258,Virginia Cavaliers
+2,2024,8,2024-10-19 19:30:00+00:00,59,Georgia Tech Yellow Jackets,13,87,Notre Dame Fighting Irish,31,87,Notre Dame Fighting Irish,59,Georgia Tech Yellow Jackets
+2,2024,8,2024-10-19 20:15:00+00:00,344,Mississippi State Bulldogs,24,245,Texas A&M Aggies,34,245,Texas A&M Aggies,344,Mississippi State Bulldogs
+2,2024,8,2024-10-19 16:00:00+00:00,84,Indiana Hoosiers,56,158,Nebraska Cornhuskers,7,84,Indiana Hoosiers,158,Nebraska Cornhuskers
+2,2024,8,2024-10-19 23:30:00+00:00,277,West Virginia Mountaineers,18,2306,Kansas State Wildcats,45,2306,Kansas State Wildcats,277,West Virginia Mountaineers
+2,2024,8,2024-10-19 16:00:00+00:00,142,Missouri Tigers,21,2,Auburn Tigers,17,142,Missouri Tigers,2,Auburn Tigers
+2,2024,8,2024-10-20 00:00:00+00:00,24,Stanford Cardinal,10,2567,SMU Mustangs,40,2567,SMU Mustangs,24,Stanford Cardinal
+2,2024,8,2024-10-19 19:30:00+00:00,356,Illinois Fighting Illini,21,130,Michigan Wolverines,7,356,Illinois Fighting Illini,130,Michigan Wolverines
+2,2024,8,2024-10-19 16:00:00+00:00,349,Army Black Knights,45,151,East Carolina Pirates,28,349,Army Black Knights,151,East Carolina Pirates
+2,2024,8,2024-10-19 19:30:00+00:00,2426,Navy Midshipmen,51,2429,Charlotte 49ers,17,2426,Navy Midshipmen,2429,Charlotte 49ers
+2,2024,8,2024-10-19 16:00:00+00:00,77,Northwestern Wildcats,3,275,Wisconsin Badgers,23,275,Wisconsin Badgers,77,Northwestern Wildcats
+2,2024,8,2024-10-19 16:00:00+00:00,164,Rutgers Scarlet Knights,32,26,UCLA Bruins,35,26,UCLA Bruins,164,Rutgers Scarlet Knights
+2,2024,8,2024-10-19 16:00:00+00:00,41,UConn Huskies,20,154,Wake Forest Demon Deacons,23,154,Wake Forest Demon Deacons,41,UConn Huskies
+2,2024,8,2024-10-19 16:00:00+00:00,2132,Cincinnati Bearcats,24,9,Arizona State Sun Devils,14,2132,Cincinnati Bearcats,9,Arizona State Sun Devils
+2,2024,8,2024-10-19 16:00:00+00:00,324,Coastal Carolina Chanticleers,24,309,Louisiana Ragin' Cajuns,34,309,Louisiana Ragin' Cajuns,324,Coastal Carolina Chanticleers
+2,2024,8,2024-10-19 16:45:00+00:00,201,Oklahoma Sooners,9,2579,South Carolina Gamecocks,35,2579,South Carolina Gamecocks,201,Oklahoma Sooners
+2,2024,8,2024-10-19 18:00:00+00:00,2199,Eastern Michigan Eagles,38,2117,Central Michigan Chippewas,34,2199,Eastern Michigan Eagles,2117,Central Michigan Chippewas
+2,2024,8,2024-10-19 18:00:00+00:00,218,Temple Owls,20,202,Tulsa Golden Hurricane,10,218,Temple Owls,202,Tulsa Golden Hurricane
+2,2024,8,2024-10-19 19:30:00+00:00,25,California Golden Bears,23,152,NC State Wolfpack,24,152,NC State Wolfpack,25,California Golden Bears
+2,2024,8,2024-10-19 19:30:00+00:00,2305,Kansas Jayhawks,42,248,Houston Cougars,14,2305,Kansas Jayhawks,248,Houston Cougars
+2,2024,8,2024-10-19 19:30:00+00:00,265,Washington State Cougars,42,62,Hawai'i Rainbow Warriors,10,265,Washington State Cougars,62,Hawai'i Rainbow Warriors
+2,2024,8,2024-10-19 19:30:00+00:00,295,Old Dominion Monarchs,24,326,Texas State Bobcats,14,295,Old Dominion Monarchs,326,Texas State Bobcats
+2,2024,8,2024-10-19 19:30:00+00:00,193,Miami (OH) RedHawks,30,195,Ohio Bobcats,20,193,Miami (OH) RedHawks,195,Ohio Bobcats
+2,2024,8,2024-10-19 19:30:00+00:00,189,Bowling Green Falcons,27,2309,Kent State Golden Flashes,6,189,Bowling Green Falcons,2309,Kent State Golden Flashes
+2,2024,8,2024-10-19 19:30:00+00:00,2084,Buffalo Bulls,41,2711,Western Michigan Broncos,48,2711,Western Michigan Broncos,2084,Buffalo Bulls
+2,2024,8,2024-10-19 19:30:00+00:00,2459,Northern Illinois Huskies,6,2649,Toledo Rockets,13,2649,Toledo Rockets,2459,Northern Illinois Huskies
+2,2024,8,2024-10-19 19:30:00+00:00,58,South Florida Bulls,35,5,UAB Blazers,25,58,South Florida Bulls,5,UAB Blazers
+2,2024,8,2024-10-19 19:30:00+00:00,2636,UTSA Roadrunners,38,2226,Florida Atlantic Owls,24,2636,UTSA Roadrunners,2226,Florida Atlantic Owls
+2,2024,8,2024-10-19 19:30:00+00:00,2655,Tulane Green Wave,24,242,Rice Owls,10,2655,Tulane Green Wave,242,Rice Owls
+2,2024,8,2024-10-19 20:00:00+00:00,120,Maryland Terrapins,29,30,USC Trojans,28,120,Maryland Terrapins,30,USC Trojans
+2,2024,8,2024-10-19 20:00:00+00:00,12,Arizona Wildcats,7,38,Colorado Buffaloes,34,38,Colorado Buffaloes,12,Arizona Wildcats
+2,2024,8,2024-10-19 20:00:00+00:00,2641,Texas Tech Red Raiders,35,239,Baylor Bears,59,239,Baylor Bears,2641,Texas Tech Red Raiders
+2,2024,8,2024-10-19 20:00:00+00:00,328,Utah State Aggies,45,167,New Mexico Lobos,50,167,New Mexico Lobos,328,Utah State Aggies
+2,2024,8,2024-10-19 20:00:00+00:00,23,San José State Spartans,24,2751,Wyoming Cowboys,14,23,San José State Spartans,2751,Wyoming Cowboys
+2,2024,8,2024-10-19 20:00:00+00:00,290,Georgia Southern Eagles,28,256,James Madison Dukes,14,290,Georgia Southern Eagles,256,James Madison Dukes
+2,2024,8,2024-10-19 23:00:00+00:00,238,Vanderbilt Commodores,24,2050,Ball State Cardinals,14,238,Vanderbilt Commodores,2050,Ball State Cardinals
+2,2024,8,2024-10-19 23:00:00+00:00,2572,Southern Miss Golden Eagles,28,2032,Arkansas State Red Wolves,44,2032,Arkansas State Red Wolves,2572,Southern Miss Golden Eagles
+2,2024,8,2024-10-19 23:30:00+00:00,127,Michigan State Spartans,32,2294,Iowa Hawkeyes,20,127,Michigan State Spartans,2294,Iowa Hawkeyes
+2,2024,8,2024-10-19 23:30:00+00:00,235,Memphis Tigers,52,249,North Texas Mean Green,44,235,Memphis Tigers,249,North Texas Mean Green
+2,2024,8,2024-10-19 23:45:00+00:00,57,Florida Gators,48,96,Kentucky Wildcats,20,57,Florida Gators,96,Kentucky Wildcats
+2,2024,8,2024-10-20 00:00:00+00:00,2005,Air Force Falcons,13,36,Colorado State Rams,21,36,Colorado State Rams,2005,Air Force Falcons
+2,2024,8,2024-10-20 02:00:00+00:00,204,Oregon State Beavers,25,2439,UNLV Rebels,33,2439,UNLV Rebels,204,Oregon State Beavers
+2,2024,8,2024-10-20 02:30:00+00:00,254,Utah Utes,7,2628,TCU Horned Frogs,13,2628,TCU Horned Frogs,254,Utah Utes
